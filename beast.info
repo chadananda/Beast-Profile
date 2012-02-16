@@ -1,0 +1,133 @@
+; Other
+dependencies[] = getid3
+dependencies[] = masquerade
+dependencies[] = css_injector
+dependencies[] = disqus
+dependencies[] = entity
+dependencies[] = entity_token
+dependencies[] = fieldset_helper
+dependencies[] = globalredirect
+dependencies[] = imageapi_optimize
+dependencies[] = imagecache_profiles
+dependencies[] = job_scheduler
+dependencies[] = libraries
+dependencies[] = logintoboggan
+dependencies[] = realname
+dependencies[] = rss_permissions
+dependencies[] = simpleping
+dependencies[] = token
+dependencies[] = pathauto
+dependencies[] = insert
+dependencies[] = better_formats
+dependencies[] = standard
+dependencies[] = redirect
+; Core
+dependencies[] = block
+dependencies[] = color
+dependencies[] = contact
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = field
+dependencies[] = field_sql_storage
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = filter
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = node
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = php
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = system
+dependencies[] = taxonomy
+dependencies[] = text
+dependencies[] = toolbar
+dependencies[] = update
+dependencies[] = user
+dependencies[] = dblog
+; Administration
+dependencies[] = admin_devel
+dependencies[] = admin_views
+dependencies[] = admin_menu
+dependencies[] = admin_menu_toolbar
+; * Link Collaboration Tools
+dependencies[] = adserve
+dependencies[] = blink
+dependencies[] = blink_externalize
+dependencies[] = kwgoals
+dependencies[] = crossdog
+; Fields
+dependencies[] = audiofield
+dependencies[] = link
+dependencies[] = node_reference
+dependencies[] = references
+dependencies[] = user_reference
+dependencies[] = field_group
+dependencies[] = filefield_sources
+; Chaos tool suite
+dependencies[] = bulk_export
+dependencies[] = ctools
+; Charting
+dependencies[] = chart
+dependencies[] = chart_views
+; User interface
+dependencies[] = collapsiblock
+dependencies[] = jcarousel
+; Content
+dependencies[] = field_redirection
+; Voting
+dependencies[] = fivestar
+dependencies[] = votingapi
+; Statistics
+dependencies[] = googleanalytics
+dependencies[] = google_analytics_api
+dependencies[] = google_analytics_reports
+; Image
+dependencies[] = imagecache_actions
+dependencies[] = imagecache_canvasactions
+dependencies[] = imagecache_coloractions
+dependencies[] = image_scale9actions
+; MailChimp
+dependencies[] = mailchimp
+dependencies[] = mailchimp_lists
+dependencies[] = mailchimp_sts
+; Mail
+dependencies[] = mailsystem
+dependencies[] = mimemail
+; Input filters
+dependencies[] = markdown
+dependencies[] = pathologic
+; Meta tags
+dependencies[] = metatag
+dependencies[] = metatag_opengraph
+dependencies[] = metatag_ui
+; OAuth
+dependencies[] = oauth_common
+; Development
+dependencies[] = profiler_builder
+dependencies[] = devel
+; Shorten URLs
+dependencies[] = shorten
+dependencies[] = shortener
+; ThemeKey
+dependencies[] = themekey
+; Views
+dependencies[] = views_bulk_operations
+dependencies[] = views_data_export
+dependencies[] = views_php
+dependencies[] = views_ui
+dependencies[] = views
+; Permissions
+dependencies[] = view_unpublished
+; XML sitemap
+dependencies[] = xmlsitemap_node
+dependencies[] = xmlsitemap
+dependencies[] = xmlsitemap_engines
+; Features
+dependencies[] = features
+dependencies[] = beast
+
