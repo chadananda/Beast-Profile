@@ -119,13 +119,12 @@ libraries[getid3][directory_name] = getid3
 
 libraries[jplayer][download][type] = file
 libraries[jplayer][download][url] = "https://github.com/happyworm/jPlayer/raw/master/jquery.jplayer/jquery.jplayer.js"
-libraries[jplayer][directory_name] = jplayer
-libraries[jplayer][overwrite] = TRUE
 
-libraries[jplayer_swf][download][type] = file
-libraries[jplayer_swf][download][url] = "https://github.com/happyworm/jPlayer/raw/master/jquery.jplayer/Jplayer.swf"
+libraries[jplayer_swf][destination] = libraries
 libraries[jplayer_swf][directory_name] = jplayer
 libraries[jplayer_swf][overwrite] = TRUE
+libraries[jplayer_swf][download][type] = file
+libraries[jplayer_swf][download][url] = "https://github.com/happyworm/jPlayer/raw/master/jquery.jplayer/Jplayer.swf" 
 
 
 
