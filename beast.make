@@ -65,12 +65,11 @@ projects[] = realname
 projects[] = simpleping
 projects[] = audiofield
 projects[] = filefield_sources
-projects[] = chart
-projects[] = chart_views
+projects[] = chart 
 projects[] = collapsiblock
 projects[] = jcarousel
 projects[] = field_redirection
-projects[] = googleanalytics  
+projects[] = google_analytics  
 projects[] = mailchimp
 projects[] = mailsystem
 projects[] = markdown
@@ -78,8 +77,7 @@ projects[] = pathologic
 projects[] = metatag
 projects[] = profiler_builder
 projects[] = profiler
-projects[] = shorten
-projects[] = shortener
+projects[] = shorten 
 projects[] = themekey
 projects[] = views_data_export
 projects[] = views_php
@@ -140,8 +138,8 @@ projects[omega][type] = theme
 projects[sky][type] = theme
  
 projects[liberty_notepad][download][type] = get
-projects[kwgoals][download][url] = "http://dl.dropbox.com/u/382588/sites/code_libaries/liberty_notepad_theme.tar.gz" 
-projects[kwgoals][type] = theme 
+projects[liberty_notepad][download][url] = "http://dl.dropbox.com/u/382588/sites/code_libaries/liberty_notepad_theme.tar.gz" 
+projects[liberty_notepad][type] = theme 
   
   
 ; Libraries
