@@ -202,8 +202,7 @@ projects[kwgoals][type] = "module"
 
 
 ; Themes
-; --------
-projects[] = omega
+; -------- 
 projects[omega][type] = "theme"
 
 projects[sky][version] = "1.6"
