@@ -123,6 +123,7 @@ libraries[jplayer][download][url] = "https://github.com/happyworm/jPlayer/raw/ma
 libraries[jplayer_swf][download][type] = file
 libraries[jplayer_swf][download][url] = "https://github.com/happyworm/jPlayer/raw/master/jquery.jplayer/Jplayer.swf"
 libraries[jplayer_swf][directory_name] = jplayer
+libraries[jplayer_swf][overwrite] = TRUE
 
 
 
