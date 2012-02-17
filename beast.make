@@ -108,8 +108,8 @@ projects[login_destination][type] = "module"
 projects[pathauto][version] = 1.0
 projects[pathauto][type] = "module"
 
-projects[path_redirect][version] = 1.x-dev
-projects[path_redirect][type] = "module"
+projects[redirect][version] = 1.0-beta4
+projects[redirect][type] = "module"
 
 projects[scheduler][version] = 1.0
 projects[scheduler][type] = "module"
@@ -135,7 +135,7 @@ projects[print][type] = "module"
 projects[page_title][version] = 2.5
 projects[page_title][type] = "module"
 
-projects[rss_permissions][version] = 7.x-1.0-beta1
+projects[rss_permissions][version] = 1.0-beta1
 projects[rss_permissions][type] = "module"
 
 projects[service_links][version] = 2.1
@@ -203,9 +203,8 @@ projects[kwgoals][type] = "module"
 
 ; Themes
 ; -------- 
-projects[omega][type] = "theme"
-
-projects[sky][version] = "1.6"
+projects[omega][type] = "theme" 
+projects[sky][type] = "theme"
   
   
 ; Libraries
