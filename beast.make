@@ -116,15 +116,28 @@ libraries[getid3][download][type] = get
 libraries[getid3][download][url] = "http://downloads.sourceforge.net/project/getid3/getID3%28%29%201.x/1.7.9/getid3-1.7.9.zip"
 libraries[getid3][directory_name] = getid3
  
-
+; audio players
+libraries[jplayer][destination] = libraries
+libraries[jplayer][directory_name] = player
+libraries[jplayer_swf][overwrite] = TRUE
 libraries[jplayer][download][type] = file
 libraries[jplayer][download][url] = "https://github.com/happyworm/jPlayer/raw/master/jquery.jplayer/jquery.jplayer.js"
 
 libraries[jplayer_swf][destination] = libraries
-libraries[jplayer_swf][directory_name] = jplayer
+libraries[jplayer_swf][directory_name] = player
 libraries[jplayer_swf][overwrite] = TRUE
 libraries[jplayer_swf][download][type] = file
 libraries[jplayer_swf][download][url] = "https://github.com/happyworm/jPlayer/raw/master/jquery.jplayer/Jplayer.swf" 
 
+libraries[button_player][destination] = libraries
+libraries[button_player][directory_name] = player
+libraries[button_player][overwrite] = TRUE
+libraries[button_player][download][type] = get
+libraries[button_player][download][url] = "http://dl.dropbox.com/u/382588/sites/code_libaries/button_player-0.1.zip" 
 
+libraries[audio_player][destination] = libraries
+libraries[audio_player][directory_name] = player
+libraries[audio_player][overwrite] = TRUE
+libraries[audio_player][download][type] = get
+libraries[audio_player][download][url] = "http://dl.dropbox.com/u/382588/sites/code_libaries/audio-player.tar.gz" 
 
