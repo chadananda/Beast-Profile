@@ -215,5 +215,11 @@ libraries[getid3][download][type] = "get"
 libraries[getid3][download][url] = "http://downloads.sourceforge.net/project/getid3/getID3%28%29%201.x/1.7.9/getid3-1.7.9.zip"
 libraries[getid3][directory_name] = "getid3"
 
+libraries[jplayer_swf][download][type] = "file"
+libraries[jplayer_swf][download][url] = "https://github.com/happyworm/jPlayer/raw/master/jquery.jplayer/Jplayer.swf"
+libraries[jplayer][download][type] = "file"
+libraries[jplayer][download][url] = "https://github.com/happyworm/jPlayer/raw/master/jquery.jplayer/jquery.jplayer.js"
+
+
 
 
