@@ -55,6 +55,37 @@ projects[] = votingapi
 projects[] = mimemail
 projects[] = rss_permissions
 
+projects[] = masquerade
+projects[] = css_injector
+projects[] = disqus
+projects[] = fieldset_helper
+projects[] = imageapi_optimize
+projects[] = job_scheduler
+projects[] = realname
+projects[] = simpleping
+projects[] = audiofield
+projects[] = filefield_sources
+projects[] = chart
+projects[] = chart_views
+projects[] = collapsiblock
+projects[] = jcarousel
+projects[] = field_redirection
+projects[] = googleanalytics  
+projects[] = mailchimp
+projects[] = mailsystem
+projects[] = markdown
+projects[] = pathologic
+projects[] = metatag
+projects[] = profiler_builder
+projects[] = profiler
+projects[] = shorten
+projects[] = shortener
+projects[] = themekey
+projects[] = views_data_export
+projects[] = views_php
+projects[] = view_unpublished 
+
+
 ; Modules needing specified versions
 projects[xmlsitemap][version] = 2.0-rc1
 projects[better_formats][version] = 1.x-dev
@@ -96,12 +127,21 @@ projects[kwgoals][download][url] = "git://github.com/chadananda/kwgoals.git"
 projects[kwgoals][type] = module
 projects[kwgoals][subdir] = custom
 
+projects[crossdog][download][type] = git
+projects[crossdog][download][url] = "git://github.com/chadananda/crossdog.git" 
+projects[crossdog][type] = module
+projects[crossdog][subdir] = custom
+ 
 
 
 ; Themes
 ; -------- 
 projects[omega][type] = theme
 projects[sky][type] = theme
+ 
+projects[liberty_notepad][download][type] = get
+projects[kwgoals][download][url] = "http://dl.dropbox.com/u/382588/sites/code_libaries/liberty_notepad_theme.tar.gz" 
+projects[kwgoals][type] = theme 
   
   
 ; Libraries
