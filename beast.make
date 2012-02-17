@@ -189,11 +189,7 @@ projects[blink][type] = "module"
 
 projects[blink_externalize][download][type] = "git"
 projects[blink_externalize][download][url] = "git://github.com/chadananda/blink_externalize.git" 
-projects[blink_externalize][type] = "module"
-
-projects[koc][download][type] = "git"
-projects[koc][download][url] = "git://github.com/chadananda/koc.git" 
-projects[koc][type] = "module"
+projects[blink_externalize][type] = "module" 
 
 projects[kwgoals][download][type] = "git"
 projects[kwgoals][download][url] = "git://github.com/chadananda/kwgoals.git" 
