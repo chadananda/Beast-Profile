@@ -1,3 +1,9 @@
+name = Beast (KOC)
+description = King of Content base website (Feed the Beast)
+core = 7.x
+
+
+
 ; Other
 dependencies[] = getid3
 dependencies[] = masquerade
