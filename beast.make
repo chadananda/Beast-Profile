@@ -54,7 +54,7 @@ projects[] = fivestar
 projects[] = votingapi
 projects[] = mimemail
 projects[] = rss_permissions
-
+projects[] = oauth
 projects[] = masquerade
 projects[] = css_injector
 projects[] = disqus
@@ -70,6 +70,7 @@ projects[] = collapsiblock
 projects[] = jcarousel
 projects[] = field_redirection
 projects[] = google_analytics  
+projects[] = google_analytics_reports
 projects[] = mailchimp
 projects[] = mailsystem
 projects[] = markdown

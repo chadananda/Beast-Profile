@@ -24,8 +24,7 @@ dependencies[] = simpleping
 dependencies[] = token
 dependencies[] = pathauto
 dependencies[] = insert
-dependencies[] = better_formats
-dependencies[] = standard
+dependencies[] = better_formats 
 dependencies[] = redirect
 ; Core
 dependencies[] = block
@@ -89,14 +88,12 @@ dependencies[] = field_redirection
 dependencies[] = fivestar
 dependencies[] = votingapi
 ; Statistics
-dependencies[] = googleanalytics
-dependencies[] = google_analytics_api
+dependencies[] = googleanalytics 
 dependencies[] = google_analytics_reports
 ; Image
 dependencies[] = imagecache_actions
 dependencies[] = imagecache_canvasactions
-dependencies[] = imagecache_coloractions
-dependencies[] = image_scale9actions
+dependencies[] = imagecache_coloractions 
 ; MailChimp
 dependencies[] = mailchimp
 dependencies[] = mailchimp_lists
