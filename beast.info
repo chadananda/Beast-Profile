@@ -61,8 +61,8 @@ dependencies[] = admin_menu
 dependencies[] = admin_menu_toolbar
 ; * Link Collaboration Tools
 dependencies[] = adserve
-dependencies[] = blink
-dependencies[] = blink_externalize
+;dependencies[] = blink
+;dependencies[] = blink_externalize
 dependencies[] = kwgoals
 dependencies[] = crossdog
 ; Fields
