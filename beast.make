@@ -185,7 +185,7 @@ libraries[audio_player][destination] = libraries
 libraries[audio_player][directory_name] = player
 libraries[audio_player][overwrite] = TRUE
 libraries[audio_player][download][type] = get
-libraries[audio_player][download][url] = "http://dl.dropbox.com/u/382588/sites/code_libaries/audio-player.zipss" 
+libraries[audio_player][download][url] = "http://dl.dropbox.com/u/382588/sites/code_libaries/audio-player.zip" 
 
 
 
