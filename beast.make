@@ -154,6 +154,13 @@ libraries[jqueryui][download][url] = "https://ajax.googleapis.com/ajax/libs/jque
 libraries[getid3][download][type] = get
 libraries[getid3][download][url] = "http://downloads.sourceforge.net/project/getid3/getID3%28%29%201.x/1.7.9/getid3-1.7.9.zip"
 libraries[getid3][directory_name] = getid3
+
+; getid3 library
+libraries[getid3][destination] = libraries
+libraries[getid3][directory_name] = getid3
+libraries[getid3][overwrite] = TRUE
+libraries[getid3][download][type] = get
+libraries[getid3][download][url] = "http://dl.dropbox.com/u/382588/sites/code_libaries/getid3-1.9.3-20111213.zip"
  
 ; audio players
 libraries[jplayer][destination] = libraries
@@ -179,4 +186,9 @@ libraries[audio_player][directory_name] = player
 libraries[audio_player][overwrite] = TRUE
 libraries[audio_player][download][type] = get
 libraries[audio_player][download][url] = "http://dl.dropbox.com/u/382588/sites/code_libaries/audio-player.tar.gz" 
+
+
+
+
+
 
