@@ -75,7 +75,6 @@ projects[] = mailchimp
 projects[] = mailsystem
 projects[] = markdown
 projects[] = pathologic
-projects[] = metatag
 projects[] = profiler_builder
 projects[] = profiler
 projects[] = shorten 
@@ -92,6 +91,7 @@ projects[captcha][version] = 1.0-beta2
 projects[cck][version] = 2.x-dev
 projects[image][version] = 1.x-dev
 projects[imagecache_actions][version] = 1.x-dev
+projects[metatag][version] = 1.0-alpha4
 
 
 ; Non-project modules
