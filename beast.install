@@ -5,6 +5,10 @@
  * Perform actions to set up the site for this profile.
  */
 function beast_profile_install() {
+
+   variable_set('getid3_path', 'profiles/beast/libraries/getid3/getid3');
+
+
   include_once DRUPAL_ROOT . '/profiles/minimal/minimal.install';
   minimal_install();
 }

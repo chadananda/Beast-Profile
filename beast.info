@@ -133,3 +133,5 @@ dependencies[] = xmlsitemap_engines
 dependencies[] = features
 dependencies[] = beast
 
+files[] = beast.profile
+
