@@ -5,7 +5,7 @@ core = 7.x
 
 
 ; Other
-;dependencies[] = getid3
+dependencies[] = getid3
 dependencies[] = masquerade
 dependencies[] = css_injector
 dependencies[] = disqus

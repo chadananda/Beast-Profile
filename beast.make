@@ -152,7 +152,7 @@ libraries[jqueryui][download][type] = file
 libraries[jqueryui][download][url] = "https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"
 
 libraries[getid3][download][type] = get
-libraries[getid3][download][url] = "http://downloads.sourceforge.net/project/getid3/getID3%28%29%201.x/1.7.9/getid3-1.7.9.zip"
+libraries[getid3][download][url] = "http://dl.dropbox.com/u/382588/sites/code_libaries/getid3-1.7.9.zip"
 libraries[getid3][directory_name] = getid3
 
 ; getid3 library
