@@ -4,6 +4,13 @@
  *
  * Perform actions to set up the site for this profile.
  */
+ 
+ 
+/*
+ Ok, what do we have to set?
+ 
+ 
+*/ 
 function beast_profile_install() {
   variable_set('getid3_path', 'profiles/beast/libraries/getid3/getid3');
    

@@ -76,7 +76,6 @@ projects[] = mailsystem
 projects[] = markdown
 projects[] = pathologic
 projects[] = profiler_builder
-projects[] = profiler
 projects[] = shorten 
 projects[] = themekey
 projects[] = views_data_export
@@ -145,6 +144,9 @@ projects[liberty_notepad][type] = theme
   
 ; Libraries
 ; ---------
+libraries[] = profiler
+
+
 libraries[jquery][download][type] = file
 libraries[jquery][download][url] = "https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"
 
