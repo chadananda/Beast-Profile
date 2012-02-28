@@ -138,3 +138,2481 @@ dependencies[] = beast
 
 files[] = beast.profile
 
+
+
+; Variables
+
+variables[additional_settings__active_tab_affiliate_product] = edit-submission
+variables[additional_settings__active_tab_article] = edit-display
+variables[additional_settings__active_tab_page] = edit-xmlsitemap
+variables[admin_menu_devel_modules_skip][coder] = 0
+variables[admin_menu_devel_modules_skip][devel] = 0
+variables[admin_menu_devel_modules_skip][devel_node_access] = 0
+variables[admin_menu_devel_modules_skip][views_ui] = 0
+variables[admin_menu_display] = 0
+variables[admin_menu_margin_top] = 1
+variables[admin_menu_position_fixed] = 1
+variables[admin_theme] = seven
+variables[anonymous] = Guest
+variables[audiofield_audioplayer] = wpaudioplayer
+variables[audiofield_players_dir] = sites/all/libraries/player
+variables[beast_audio_reading_template] = <h2> Thanks for joining us, this is the [site] podcast <br> [site-url] </h2>
+<h3>Today's [article-type]: [title] </h3>
+<h4><i> [article-type] written by [author-name] </i></h4>  [pause] [article] [pause]
+<h4>You can find more [article-type-plural] at [site-url] </h4>
+variables[beast_blink_description] = ("beast" module) These are "best guess" or "early target" keywords drawn from the "Initial Keywords" field in syndicated content and affiliated products. Note: if KWGOALS module is enabled, any keywords in the KWGOALS list will be removed from this list automatically.
+variables[beast_blink_readonly] = 1
+variables[beast_blink_weight] = -5
+variables[beast_checklist_articletypes] = 1
+variables[beast_checklist_beast_settings] = 1
+variables[beast_checklist_imagestyles] = 1
+variables[beast_checklist_keywordgoals] = 1
+variables[beast_checklist_ownerprofile] = 1
+variables[beast_checklist_pathauto] = 1
+variables[beast_checklist_siteinfo] = 1
+variables[beast_checklist_theme] = 1
+variables[beast_checklist_user_editor] = 38
+variables[beast_checklist_user_promoter] = 47
+variables[beast_checklist_user_reader] = 33
+variables[beast_checklist_user_spinner] = 50
+variables[beast_checklist_user_writer] = 48
+variables[beast_content_affiliateproducts] = 1
+variables[beast_content_assignments] = 1
+variables[beast_content_proofread] = 1
+variables[beast_content_writing] = 1
+variables[beast_copyright] = Copyright 2008-[site-date-yyyy] - http://free-data-recovery.info
+variables[beast_email] = info@free-data-recovery.info
+variables[beast_files_folder] = feeds3
+variables[beast_initial_keyword_weight] = 50
+variables[beast_language] = en-us
+variables[beast_last_article_update] = 1313558636
+variables[beast_last_blink_update] = 1329430789
+variables[beast_last_remove_old_rss_cachefiles] = 1329430789
+variables[beast_last_submitted_1] = 1315713484
+variables[beast_last_submitted_33] = 1320607429
+variables[beast_last_submitted_34] = 1314888879
+variables[beast_last_submitted_48] = 1316501189
+variables[beast_last_submitted_50] = 1316469955
+variables[beast_podcast_description] = Audio Feed of Thoughts and Opinions on the Pursuit of Freedom from http://liberty.notepad.com
+variables[beast_podcast_image] = public://feeds3/logo_coolpad_sm.gif
+variables[beast_podcast_image_fid] = 281
+variables[beast_podcast_itunes_categories][Government & Organizations] = Government & Organizations
+variables[beast_podcast_itunes_categories][Government & Organizations:Non-Profit] = Government & Organizations:Non-Profit
+variables[beast_podcast_itunes_categories][News & Politics] = News & Politics
+variables[beast_podcast_itunes_categories][Society & Culture:History] = Society & Culture:History
+variables[beast_podcast_title] = Liberty Notepad Audio Feed
+variables[beast_resource_box] = [author-name] {writes for|is a contributor at|contributes writing to} [site-link]. {More information|Similar work|The original research|Additional information} {is available at|is published at|can be found at|is available at} [page-link]. [author-name] also contributed to [site-link]
+variables[beast_rss_body_header] = [author-name] contributes to [site-link]. More on this topic can be found at [page-link] and [product-link] 
+variables[beast_rss_description] = RSS Feed of Thoughts and Opinions on the Pursuit of Freedom from http://liberty.notepad.com
+variables[beast_rss_email] = info@notepad.com
+variables[beast_rss_needs_updated] = 1
+variables[beast_rss_title] = Liberty Notepad RSS Feed
+variables[beast_schedule_frequency] = 5
+variables[beast_schedule_min] = 9
+variables[beast_site_advertisers] = Catherine Doyle <catherine.doyle@premiumlinkadvertising.com>
+Cherie Nolasco <cherie@linkbuilding.net>
+Cassandra Smith <cassandra@betterlinkadvertising.com>
+Ashton Alexander ashton@linkbuilding.net
+Max <mcava@linkmonopoly.com> (represents web.com)
+Peter Long <techmediabuyer@gmail.com> (never got back to me)
+Antony Step <amtadvertisement@gmail.com> (low budget)
+Gary Martin <Gary@ztmc.net> (offered $60/mo)
+
+alex <alex@linkbuilding.net>
+ 
+Belle <belle@betterlinkadvertising.com>
+Brian Johnston <BBac130@gmail.com>
+Brandon brandon@linkbuilding.net 
+Kyle <kyle@linkvehicle.com> ?? automated?
+Nichole <nicole@betterlinkadvertising.com>
+Lars Bell <lars@slidescanningpros.com> (purchased for own company)
+James Marlowe <james.marlowe@branded3.com>
+Tom Taylor <tomtaylor7@gmail.com>
+Forest <forestm@toprankweb.com> (offered $1100/yr)
+
+Affiliate offer: Michael Quiroz <m.quiroz@zenok.com> 
+CPM? Soledad Martinetti soledad@creafi.com
+Jason Place <j.place@finditquick.com> (%75/%25 split ads)
+ 
+Shepherdess <shepherdess@easeus.com>
+cindy <cindy@easeus.com>
+Robin Jia <robin@easeus.com>
+eva <eva@easeus.com>
+Rance <rancelan2008@hotmail.com> (easeus)
+variables[beast_site_author] = Charlie Campbell
+variables[beast_site_description] = thoughts and opinions on the pursuit of freedom
+variables[beast_site_url] = http://liberty.notepad.com
+variables[beast_syndicated_audio_upload_nid] = 11
+variables[best-google-hits_blink_description] = ("kwgoals" module) These are high potential traffic-generating keywords found in the referrer data of actual Google search hits. The single page with the best SERP "wins" the keyword so each keyword is assigned only once. This way we do not compete internally for the same keyword. 
+variables[best-google-hits_blink_readonly] = 1
+variables[best-google-hits_blink_weight] = 10
+variables[better_formats_per_field_core] = 1
+variables[blink_blink_description] = These are manually-added local links which allow you to force higher weighted keywords into the blink system.
+variables[blink_blink_weight] = -10
+variables[blink_exclude_types][0] = adserve
+variables[blink_exclude_types][1] = affiliate_product
+variables[blink_exclude_types][2] = page
+variables[blink_externalize_last_blink_update] = 1329430789
+variables[blink_externalize_randomize_services] = 1
+variables[blink_last_check_updates] = 1329430789
+variables[blink_link_class] = liblk
+variables[blink_link_css_filepath] = public://liblk.css
+variables[blink_link_hover] = text-decoration:none; border-bottom: 1px solid #F0F0F0;
+variables[blink_link_style] = text-decoration:none; border-bottom:1px dashed  #F0F0F0; color: inherit;
+variables[blink_link_style_hover] = background:#FF9; border-bottom:1px solid;
+variables[blink_local_goal_gid_0] = 55
+variables[blink_local_goal_gid_1] = 59
+variables[blink_local_goal_gid_10] = 94
+variables[blink_local_goal_gid_100] = 150
+variables[blink_local_goal_gid_101] = 162
+variables[blink_local_goal_gid_102] = 191
+variables[blink_local_goal_gid_103] = 50
+variables[blink_local_goal_gid_104] = 89
+variables[blink_local_goal_gid_105] = 91
+variables[blink_local_goal_gid_106] = 95
+variables[blink_local_goal_gid_107] = 113
+variables[blink_local_goal_gid_108] = 114
+variables[blink_local_goal_gid_109] = 116
+variables[blink_local_goal_gid_11] = 126
+variables[blink_local_goal_gid_110] = 145
+variables[blink_local_goal_gid_111] = 147
+variables[blink_local_goal_gid_112] = 159
+variables[blink_local_goal_gid_113] = 166
+variables[blink_local_goal_gid_114] = 177
+variables[blink_local_goal_gid_115] = 185
+variables[blink_local_goal_gid_116] = 188
+variables[blink_local_goal_gid_117] = 192
+variables[blink_local_goal_gid_118] = 193
+variables[blink_local_goal_gid_119] = 195
+variables[blink_local_goal_gid_12] = 76
+variables[blink_local_goal_gid_120] = 47
+variables[blink_local_goal_gid_121] = 101
+variables[blink_local_goal_gid_122] = 107
+variables[blink_local_goal_gid_123] = 115
+variables[blink_local_goal_gid_124] = 120
+variables[blink_local_goal_gid_125] = 122
+variables[blink_local_goal_gid_126] = 125
+variables[blink_local_goal_gid_127] = 139
+variables[blink_local_goal_gid_128] = 198
+variables[blink_local_goal_gid_129] = 468
+variables[blink_local_goal_gid_13] = 62
+variables[blink_local_goal_gid_130] = 199
+variables[blink_local_goal_gid_131] = 200
+variables[blink_local_goal_gid_132] = 471
+variables[blink_local_goal_gid_133] = 470
+variables[blink_local_goal_gid_134] = 469
+variables[blink_local_goal_gid_135] = 198
+variables[blink_local_goal_gid_136] = 468
+variables[blink_local_goal_gid_137] = 199
+variables[blink_local_goal_gid_138] = 200
+variables[blink_local_goal_gid_139] = 471
+variables[blink_local_goal_gid_14] = 61
+variables[blink_local_goal_gid_140] = 470
+variables[blink_local_goal_gid_141] = 469
+variables[blink_local_goal_gid_142] = 473
+variables[blink_local_goal_gid_143] = 472
+variables[blink_local_goal_gid_144] = 478
+variables[blink_local_goal_gid_145] = 477
+variables[blink_local_goal_gid_146] = 471
+variables[blink_local_goal_gid_147] = 470
+variables[blink_local_goal_gid_148] = 480
+variables[blink_local_goal_gid_149] = 479
+variables[blink_local_goal_gid_15] = 75
+variables[blink_local_goal_gid_150] = 469
+variables[blink_local_goal_gid_151] = 200
+variables[blink_local_goal_gid_152] = 200
+variables[blink_local_goal_gid_16] = 73
+variables[blink_local_goal_gid_17] = 48
+variables[blink_local_goal_gid_18] = 81
+variables[blink_local_goal_gid_19] = 51
+variables[blink_local_goal_gid_2] = 155
+variables[blink_local_goal_gid_20] = 104
+variables[blink_local_goal_gid_21] = 142
+variables[blink_local_goal_gid_22] = 144
+variables[blink_local_goal_gid_23] = 156
+variables[blink_local_goal_gid_24] = 70
+variables[blink_local_goal_gid_25] = 58
+variables[blink_local_goal_gid_26] = 121
+variables[blink_local_goal_gid_27] = 171
+variables[blink_local_goal_gid_28] = 138
+variables[blink_local_goal_gid_29] = 88
+variables[blink_local_goal_gid_3] = 64
+variables[blink_local_goal_gid_30] = 123
+variables[blink_local_goal_gid_31] = 102
+variables[blink_local_goal_gid_32] = 158
+variables[blink_local_goal_gid_33] = 87
+variables[blink_local_goal_gid_34] = 100
+variables[blink_local_goal_gid_35] = 131
+variables[blink_local_goal_gid_36] = 80
+variables[blink_local_goal_gid_37] = 130
+variables[blink_local_goal_gid_38] = 74
+variables[blink_local_goal_gid_39] = 83
+variables[blink_local_goal_gid_4] = 67
+variables[blink_local_goal_gid_40] = 60
+variables[blink_local_goal_gid_41] = 78
+variables[blink_local_goal_gid_42] = 53
+variables[blink_local_goal_gid_43] = 66
+variables[blink_local_goal_gid_44] = 97
+variables[blink_local_goal_gid_45] = 108
+variables[blink_local_goal_gid_46] = 173
+variables[blink_local_goal_gid_47] = 54
+variables[blink_local_goal_gid_48] = 118
+variables[blink_local_goal_gid_49] = 112
+variables[blink_local_goal_gid_5] = 65
+variables[blink_local_goal_gid_50] = 137
+variables[blink_local_goal_gid_51] = 163
+variables[blink_local_goal_gid_52] = 175
+variables[blink_local_goal_gid_53] = 187
+variables[blink_local_goal_gid_54] = 194
+variables[blink_local_goal_gid_55] = 72
+variables[blink_local_goal_gid_56] = 56
+variables[blink_local_goal_gid_57] = 119
+variables[blink_local_goal_gid_58] = 170
+variables[blink_local_goal_gid_59] = 85
+variables[blink_local_goal_gid_6] = 52
+variables[blink_local_goal_gid_60] = 90
+variables[blink_local_goal_gid_61] = 103
+variables[blink_local_goal_gid_62] = 132
+variables[blink_local_goal_gid_63] = 133
+variables[blink_local_goal_gid_64] = 136
+variables[blink_local_goal_gid_65] = 69
+variables[blink_local_goal_gid_66] = 45
+variables[blink_local_goal_gid_67] = 135
+variables[blink_local_goal_gid_68] = 161
+variables[blink_local_goal_gid_69] = 184
+variables[blink_local_goal_gid_7] = 77
+variables[blink_local_goal_gid_70] = 68
+variables[blink_local_goal_gid_71] = 98
+variables[blink_local_goal_gid_72] = 110
+variables[blink_local_goal_gid_73] = 111
+variables[blink_local_goal_gid_74] = 117
+variables[blink_local_goal_gid_75] = 134
+variables[blink_local_goal_gid_76] = 146
+variables[blink_local_goal_gid_77] = 148
+variables[blink_local_goal_gid_78] = 152
+variables[blink_local_goal_gid_79] = 165
+variables[blink_local_goal_gid_8] = 84
+variables[blink_local_goal_gid_80] = 176
+variables[blink_local_goal_gid_81] = 86
+variables[blink_local_goal_gid_82] = 109
+variables[blink_local_goal_gid_83] = 124
+variables[blink_local_goal_gid_84] = 141
+variables[blink_local_goal_gid_85] = 157
+variables[blink_local_goal_gid_86] = 160
+variables[blink_local_goal_gid_87] = 168
+variables[blink_local_goal_gid_88] = 178
+variables[blink_local_goal_gid_89] = 179
+variables[blink_local_goal_gid_9] = 129
+variables[blink_local_goal_gid_90] = 180
+variables[blink_local_goal_gid_91] = 181
+variables[blink_local_goal_gid_92] = 183
+variables[blink_local_goal_gid_93] = 92
+variables[blink_local_goal_gid_94] = 93
+variables[blink_local_goal_gid_95] = 96
+variables[blink_local_goal_gid_96] = 99
+variables[blink_local_goal_gid_97] = 105
+variables[blink_local_goal_gid_98] = 106
+variables[blink_local_goal_gid_99] = 128
+variables[blink_local_goal_kw_0] = undelete
+variables[blink_local_goal_kw_1] = windows backup
+variables[blink_local_goal_kw_10] = free recovery
+variables[blink_local_goal_kw_100] = fix bad mbr
+variables[blink_local_goal_kw_101] = backup files xp
+variables[blink_local_goal_kw_102] = better backup computer cd dvd
+variables[blink_local_goal_kw_103] = create backup windows xp
+variables[blink_local_goal_kw_104] = free pen drive data recovery
+variables[blink_local_goal_kw_105] = software bakup tape free
+variables[blink_local_goal_kw_106] = hard drive burned repair options
+variables[blink_local_goal_kw_107] = freeware program recover
+variables[blink_local_goal_kw_108] = hard drive spin
+variables[blink_local_goal_kw_109] = tape backup home
+variables[blink_local_goal_kw_11] = backup computer
+variables[blink_local_goal_kw_110] = disaster recovery site
+variables[blink_local_goal_kw_111] = computer forensics training online
+variables[blink_local_goal_kw_112] = backup system restore xp
+variables[blink_local_goal_kw_113] = recovery data back ntfs free
+variables[blink_local_goal_kw_114] = computer crashed lost everything
+variables[blink_local_goal_kw_115] = system recovery steps
+variables[blink_local_goal_kw_116] = complete system backup
+variables[blink_local_goal_kw_117] = complete system back
+variables[blink_local_goal_kw_118] = online file recover
+variables[blink_local_goal_kw_119] = backing laptop hard drive
+variables[blink_local_goal_kw_12] = best free data recovery software
+variables[blink_local_goal_kw_120] = backup windows xp system
+variables[blink_local_goal_kw_121] = backup computer dvd disc
+variables[blink_local_goal_kw_122] = back entire system windows xp
+variables[blink_local_goal_kw_123] = windows xp system backup restore
+variables[blink_local_goal_kw_124] = xp settings backup
+variables[blink_local_goal_kw_125] = freeware hard drive recovery tool
+variables[blink_local_goal_kw_126] = online backup apple
+variables[blink_local_goal_kw_127] = backup data windows xp
+variables[blink_local_goal_kw_128] = file retrieval
+variables[blink_local_goal_kw_129] = quarantine
+variables[blink_local_goal_kw_13] = backup appliance
+variables[blink_local_goal_kw_130] = Cyberspace
+variables[blink_local_goal_kw_131] = computer system
+variables[blink_local_goal_kw_132] = recovery companies
+variables[blink_local_goal_kw_133] = programmers
+variables[blink_local_goal_kw_134] = computer experts
+variables[blink_local_goal_kw_136] = quarantine
+variables[blink_local_goal_kw_137] = Cyberspace
+variables[blink_local_goal_kw_138] = computer system
+variables[blink_local_goal_kw_139] = recovery companies
+variables[blink_local_goal_kw_14] = backup disk
+variables[blink_local_goal_kw_140] = programmers
+variables[blink_local_goal_kw_141] = computer experts
+variables[blink_local_goal_kw_143] = estimate
+variables[blink_local_goal_kw_144] = crap3
+variables[blink_local_goal_kw_145] = crap2
+variables[blink_local_goal_kw_146] = recovery companies
+variables[blink_local_goal_kw_147] = programmers
+variables[blink_local_goal_kw_148] = crap5
+variables[blink_local_goal_kw_149] = crap4
+variables[blink_local_goal_kw_15] = free download data recovery
+variables[blink_local_goal_kw_150] = computer experts
+variables[blink_local_goal_kw_152] = computer system
+variables[blink_local_goal_kw_16] = full recovery
+variables[blink_local_goal_kw_17] = back system
+variables[blink_local_goal_kw_18] = open hard drive
+variables[blink_local_goal_kw_19] = backup win xp
+variables[blink_local_goal_kw_2] = windows backup
+variables[blink_local_goal_kw_20] = backup files windows xp
+variables[blink_local_goal_kw_21] = overview long term backup procedure
+variables[blink_local_goal_kw_22] = backup outlook express
+variables[blink_local_goal_kw_23] = undelete forever
+variables[blink_local_goal_kw_24] = online recovery tool download
+variables[blink_local_goal_kw_25] = disaster recovery strategies
+variables[blink_local_goal_kw_26] = manually copying hard drive
+variables[blink_local_goal_kw_27] = free online data backup
+variables[blink_local_goal_kw_28] = typical backup strategy
+variables[blink_local_goal_kw_29] = copy mbr another disk
+variables[blink_local_goal_kw_3] = free data recovery software
+variables[blink_local_goal_kw_30] = back windows xp
+variables[blink_local_goal_kw_31] = recover failing hard drive
+variables[blink_local_goal_kw_32] = repair hdd floppy
+variables[blink_local_goal_kw_33] = computer forensic evidence
+variables[blink_local_goal_kw_34] = backup personal computer
+variables[blink_local_goal_kw_35] = free restore software
+variables[blink_local_goal_kw_36] = tape back
+variables[blink_local_goal_kw_37] = alternate site
+variables[blink_local_goal_kw_38] = free hard drive recovery tool
+variables[blink_local_goal_kw_39] = flash drive recovery free software
+variables[blink_local_goal_kw_4] = data recovery software free
+variables[blink_local_goal_kw_40] = backup problems
+variables[blink_local_goal_kw_41] = free restoration software
+variables[blink_local_goal_kw_42] = hard drive recovery price
+variables[blink_local_goal_kw_43] = flash disk recovery freeware
+variables[blink_local_goal_kw_44] = free data rescue
+variables[blink_local_goal_kw_45] = backup computer ftp
+variables[blink_local_goal_kw_46] = recovery freeware
+variables[blink_local_goal_kw_47] = backup power supply computer
+variables[blink_local_goal_kw_48] = free datarecovery software
+variables[blink_local_goal_kw_49] = deleted folder recovery freeware
+variables[blink_local_goal_kw_5] = free recovery software
+variables[blink_local_goal_kw_50] = free software unzip
+variables[blink_local_goal_kw_51] = undelete tool huge file
+variables[blink_local_goal_kw_52] = preparing full system external backup
+variables[blink_local_goal_kw_53] = mobile backup hard disc
+variables[blink_local_goal_kw_54] = free backup outlook express
+variables[blink_local_goal_kw_55] = flash drive data recovery freeware
+variables[blink_local_goal_kw_56] = network backup utility
+variables[blink_local_goal_kw_57] = read hdd mbr bad
+variables[blink_local_goal_kw_58] = data recover dead hard disk
+variables[blink_local_goal_kw_59] = recovery hdd motor damaged electronics
+variables[blink_local_goal_kw_6] = backup registry
+variables[blink_local_goal_kw_60] = backup my windows xp computer
+variables[blink_local_goal_kw_61] = deleted data recovery free software
+variables[blink_local_goal_kw_62] = backup laptop external hard drive
+variables[blink_local_goal_kw_63] = create system backup
+variables[blink_local_goal_kw_64] = xp backup software free
+variables[blink_local_goal_kw_65] = hard drive recovery software freeware
+variables[blink_local_goal_kw_66] = hard drive data recovery equipment
+variables[blink_local_goal_kw_67] = backup entire computer
+variables[blink_local_goal_kw_68] = scan mbr
+variables[blink_local_goal_kw_69] = backup my laptop hard drive
+variables[blink_local_goal_kw_7] = file recovery software free download
+variables[blink_local_goal_kw_70] = network backup software free
+variables[blink_local_goal_kw_71] = bach pictures winxp
+variables[blink_local_goal_kw_72] = data recover free
+variables[blink_local_goal_kw_73] = programas compatibles con winzip
+variables[blink_local_goal_kw_74] = free download recovery program
+variables[blink_local_goal_kw_75] = copying commercial dvds software
+variables[blink_local_goal_kw_76] = backup testing
+variables[blink_local_goal_kw_77] = external hard drive backup application
+variables[blink_local_goal_kw_78] = creating recovery image pci card
+variables[blink_local_goal_kw_79] = network operating system backup functions
+variables[blink_local_goal_kw_8] = backup file
+variables[blink_local_goal_kw_80] = zip programs freeware
+variables[blink_local_goal_kw_81] = estorage device external
+variables[blink_local_goal_kw_82] = starting computer forensics
+variables[blink_local_goal_kw_83] = back registry
+variables[blink_local_goal_kw_84] = ps2 modchips
+variables[blink_local_goal_kw_85] = importance backup recovery files
+variables[blink_local_goal_kw_86] = filerecovery full gratis
+variables[blink_local_goal_kw_87] = outlook backup program free
+variables[blink_local_goal_kw_88] = cheap tape drive
+variables[blink_local_goal_kw_89] = zen backup
+variables[blink_local_goal_kw_9] = dr site
+variables[blink_local_goal_kw_90] = microsoft free backup software
+variables[blink_local_goal_kw_91] = data recovery freeware file
+variables[blink_local_goal_kw_92] = windows xp backup computer
+variables[blink_local_goal_kw_93] = freeware hard disk recovery software
+variables[blink_local_goal_kw_94] = hard disk mechanical repair
+variables[blink_local_goal_kw_95] = data back recovery completo
+variables[blink_local_goal_kw_96] = hard drive bootable diagnostics
+variables[blink_local_goal_kw_97] = ftp backup definition
+variables[blink_local_goal_kw_98] = freeware bit level backup
+variables[blink_local_goal_kw_99] = backup computer windows xp
+variables[blink_local_goal_remove_128] = 1
+variables[blink_local_goal_remove_129] = 1
+variables[blink_local_goal_remove_130] = 1
+variables[blink_local_goal_remove_131] = 1
+variables[blink_local_goal_remove_132] = 1
+variables[blink_local_goal_remove_133] = 1
+variables[blink_local_goal_remove_134] = 1
+variables[blink_local_goal_remove_142] = 1
+variables[blink_local_goal_remove_143] = 1
+variables[blink_local_goal_remove_144] = 1
+variables[blink_local_goal_remove_145] = 1
+variables[blink_local_goal_remove_148] = 1
+variables[blink_local_goal_remove_149] = 1
+variables[blink_local_goal_url_0] = http://fb.info/d7/?q=node/334
+variables[blink_local_goal_url_1] = http://free-backup.info/d/node/411
+variables[blink_local_goal_url_10] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_100] = http://fb.info/d7/?q=node/220
+variables[blink_local_goal_url_101] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_102] = http://fb.info/d7/?q=node/166
+variables[blink_local_goal_url_103] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_104] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_105] = http://fb.info/d7/?q=node/140
+variables[blink_local_goal_url_106] = http://fb.info/d7/?q=node/208
+variables[blink_local_goal_url_107] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_108] = http://fb.info/d7/?q=node/204
+variables[blink_local_goal_url_109] = http://fb.info/d7/?q=node/138
+variables[blink_local_goal_url_11] = http://fb.info/d7/?q=node/166
+variables[blink_local_goal_url_110] = http://fb.info/d7/?q=node/1870
+variables[blink_local_goal_url_111] = http://fb.info/d7/?q=node/176
+variables[blink_local_goal_url_112] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_113] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_114] = http://fb.info/d7/?q=node/194
+variables[blink_local_goal_url_115] = http://fb.info/d7/?q=node/242
+variables[blink_local_goal_url_116] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_117] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_118] = http://fb.info/d7/?q=node/382
+variables[blink_local_goal_url_119] = http://fb.info/d7/?q=node/2085
+variables[blink_local_goal_url_12] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_120] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_121] = http://fb.info/d7/?q=node/166
+variables[blink_local_goal_url_122] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_123] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_124] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_125] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_126] = http://fb.info/d7/?q=node/142
+variables[blink_local_goal_url_127] = http://fb.info/d7/?q=node/230
+variables[blink_local_goal_url_128] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_129] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_13] = http://fb.info/d7/?q=node/2075
+variables[blink_local_goal_url_130] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_131] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_132] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_133] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_134] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_136] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_137] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_138] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_139] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_14] = http://fb.info/d7/?q=node/1900
+variables[blink_local_goal_url_140] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_141] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_143] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_144] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_145] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_146] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_147] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_148] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_149] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_15] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_150] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_152] = http://free-data-recovery.info/prod/recover-deleted-files
+variables[blink_local_goal_url_16] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_17] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_18] = http://fb.info/d7/?q=node/204
+variables[blink_local_goal_url_19] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_2] = http://fb.info/d7/?q=node/411
+variables[blink_local_goal_url_20] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_21] = http://fb.info/d7/?q=node/1876
+variables[blink_local_goal_url_22] = http://fb.info/d7/?q=node/330
+variables[blink_local_goal_url_23] = http://free-backup.info/d/content/test-page
+variables[blink_local_goal_url_24] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_25] = http://fb.info/d7/?q=node/395
+variables[blink_local_goal_url_26] = http://fb.info/d7/?q=node/2085
+variables[blink_local_goal_url_27] = http://fb.info/d7/?q=node/304
+variables[blink_local_goal_url_28] = http://fb.info/d7/?q=node/336
+variables[blink_local_goal_url_29] = http://fb.info/d7/?q=node/220
+variables[blink_local_goal_url_3] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_30] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_31] = http://fb.info/d7/?q=node/204
+variables[blink_local_goal_url_32] = http://fb.info/d7/?q=node/220
+variables[blink_local_goal_url_33] = http://fb.info/d7/?q=node/170
+variables[blink_local_goal_url_34] = http://fb.info/d7/?q=node/234
+variables[blink_local_goal_url_35] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_36] = http://fb.info/d7/?q=node/140
+variables[blink_local_goal_url_37] = http://fb.info/d7/?q=node/1870
+variables[blink_local_goal_url_38] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_39] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_4] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_40] = http://fb.info/d7/?q=node/1868
+variables[blink_local_goal_url_41] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_42] = http://fb.info/d7/?q=node/286
+variables[blink_local_goal_url_43] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_44] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_45] = http://fb.info/d7/?q=node/136
+variables[blink_local_goal_url_46] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_47] = http://fb.info/d7/?q=node/288
+variables[blink_local_goal_url_48] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_49] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_5] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_50] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_51] = http://fb.info/d7/?q=node/403
+variables[blink_local_goal_url_52] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_53] = http://fb.info/d7/?q=node/262
+variables[blink_local_goal_url_54] = http://fb.info/d7/?q=node/332
+variables[blink_local_goal_url_55] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_56] = http://fb.info/d7/?q=node/342
+variables[blink_local_goal_url_57] = http://fb.info/d7/?q=node/220
+variables[blink_local_goal_url_58] = http://fb.info/d7/?q=node/280
+variables[blink_local_goal_url_59] = http://fb.info/d7/?q=node/280
+variables[blink_local_goal_url_6] = http://fb.info/d7/?q=node/238
+variables[blink_local_goal_url_60] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_61] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_62] = http://fb.info/d7/?q=node/2085
+variables[blink_local_goal_url_63] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_64] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_65] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_66] = http://fb.info/d7/?q=node/232
+variables[blink_local_goal_url_67] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_68] = http://fb.info/d7/?q=node/220
+variables[blink_local_goal_url_69] = http://fb.info/d7/?q=node/2085
+variables[blink_local_goal_url_7] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_70] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_71] = http://fb.info/d7/?q=node/234
+variables[blink_local_goal_url_72] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_73] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_74] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_75] = http://fb.info/d7/?q=node/160
+variables[blink_local_goal_url_76] = http://fb.info/d7/?q=node/385
+variables[blink_local_goal_url_77] = http://fb.info/d7/?q=node/2085
+variables[blink_local_goal_url_78] = http://fb.info/d7/?q=node/254
+variables[blink_local_goal_url_79] = http://fb.info/d7/?q=node/1896
+variables[blink_local_goal_url_8] = http://fb.info/d7/?q=node/234
+variables[blink_local_goal_url_80] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_81] = http://fb.info/d7/?q=node/2085
+variables[blink_local_goal_url_82] = http://fb.info/d7/?q=node/172
+variables[blink_local_goal_url_83] = http://fb.info/d7/?q=node/238
+variables[blink_local_goal_url_84] = http://fb.info/d7/?q=node/282
+variables[blink_local_goal_url_85] = http://fb.info/d7/?q=node/371
+variables[blink_local_goal_url_86] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_87] = http://fb.info/d7/?q=node/10023
+variables[blink_local_goal_url_88] = http://fb.info/d7/?q=node/138
+variables[blink_local_goal_url_89] = http://fb.info/d7/?q=node/430
+variables[blink_local_goal_url_9] = http://fb.info/d7/?q=node/1870
+variables[blink_local_goal_url_90] = http://fb.info/d7/?q=node/234
+variables[blink_local_goal_url_91] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_92] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_url_93] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_94] = http://fb.info/d7/?q=node/208
+variables[blink_local_goal_url_95] = http://fb.info/d7/?q=node/10024
+variables[blink_local_goal_url_96] = http://fb.info/d7/?q=node/208
+variables[blink_local_goal_url_97] = http://fb.info/d7/?q=node/1862
+variables[blink_local_goal_url_98] = http://fb.info/d7/?q=node/1896
+variables[blink_local_goal_url_99] = http://fb.info/d7/?q=node/236
+variables[blink_local_goal_weight_0] = 13033
+variables[blink_local_goal_weight_1] = 4380
+variables[blink_local_goal_weight_10] = 222
+variables[blink_local_goal_weight_100] = 8
+variables[blink_local_goal_weight_101] = 8
+variables[blink_local_goal_weight_102] = 8
+variables[blink_local_goal_weight_103] = 7
+variables[blink_local_goal_weight_104] = 7
+variables[blink_local_goal_weight_105] = 7
+variables[blink_local_goal_weight_106] = 7
+variables[blink_local_goal_weight_107] = 7
+variables[blink_local_goal_weight_108] = 7
+variables[blink_local_goal_weight_109] = 7
+variables[blink_local_goal_weight_11] = 203
+variables[blink_local_goal_weight_110] = 7
+variables[blink_local_goal_weight_111] = 7
+variables[blink_local_goal_weight_112] = 7
+variables[blink_local_goal_weight_113] = 7
+variables[blink_local_goal_weight_114] = 7
+variables[blink_local_goal_weight_115] = 7
+variables[blink_local_goal_weight_116] = 7
+variables[blink_local_goal_weight_117] = 7
+variables[blink_local_goal_weight_118] = 7
+variables[blink_local_goal_weight_119] = 7
+variables[blink_local_goal_weight_12] = 166
+variables[blink_local_goal_weight_120] = 6
+variables[blink_local_goal_weight_121] = 6
+variables[blink_local_goal_weight_122] = 6
+variables[blink_local_goal_weight_123] = 6
+variables[blink_local_goal_weight_124] = 6
+variables[blink_local_goal_weight_125] = 6
+variables[blink_local_goal_weight_126] = 6
+variables[blink_local_goal_weight_127] = 6
+variables[blink_local_goal_weight_128] = 5
+variables[blink_local_goal_weight_129] = 5
+variables[blink_local_goal_weight_13] = 144
+variables[blink_local_goal_weight_130] = 4
+variables[blink_local_goal_weight_131] = 4
+variables[blink_local_goal_weight_132] = 1
+variables[blink_local_goal_weight_133] = 1
+variables[blink_local_goal_weight_134] = 1
+variables[blink_local_goal_weight_135] = 1
+variables[blink_local_goal_weight_136] = 5
+variables[blink_local_goal_weight_137] = 4
+variables[blink_local_goal_weight_138] = 4
+variables[blink_local_goal_weight_139] = 1
+variables[blink_local_goal_weight_14] = 140
+variables[blink_local_goal_weight_140] = 1
+variables[blink_local_goal_weight_141] = 1
+variables[blink_local_goal_weight_142] = 1
+variables[blink_local_goal_weight_143] = 1
+variables[blink_local_goal_weight_144] = 1
+variables[blink_local_goal_weight_145] = 1
+variables[blink_local_goal_weight_146] = 1
+variables[blink_local_goal_weight_147] = 1
+variables[blink_local_goal_weight_148] = 1
+variables[blink_local_goal_weight_149] = 1
+variables[blink_local_goal_weight_15] = 96
+variables[blink_local_goal_weight_150] = 1
+variables[blink_local_goal_weight_151] = 1
+variables[blink_local_goal_weight_152] = 3
+variables[blink_local_goal_weight_153] = 1
+variables[blink_local_goal_weight_16] = 95
+variables[blink_local_goal_weight_17] = 93
+variables[blink_local_goal_weight_18] = 79
+variables[blink_local_goal_weight_19] = 79
+variables[blink_local_goal_weight_2] = 4380
+variables[blink_local_goal_weight_20] = 56
+variables[blink_local_goal_weight_21] = 50
+variables[blink_local_goal_weight_22] = 50
+variables[blink_local_goal_weight_23] = 50
+variables[blink_local_goal_weight_24] = 48
+variables[blink_local_goal_weight_25] = 45
+variables[blink_local_goal_weight_26] = 44
+variables[blink_local_goal_weight_27] = 40
+variables[blink_local_goal_weight_28] = 38
+variables[blink_local_goal_weight_29] = 34
+variables[blink_local_goal_weight_3] = 2967
+variables[blink_local_goal_weight_30] = 33
+variables[blink_local_goal_weight_31] = 30
+variables[blink_local_goal_weight_32] = 30
+variables[blink_local_goal_weight_33] = 29
+variables[blink_local_goal_weight_34] = 24
+variables[blink_local_goal_weight_35] = 24
+variables[blink_local_goal_weight_36] = 23
+variables[blink_local_goal_weight_37] = 23
+variables[blink_local_goal_weight_38] = 21
+variables[blink_local_goal_weight_39] = 21
+variables[blink_local_goal_weight_4] = 1148
+variables[blink_local_goal_weight_40] = 20
+variables[blink_local_goal_weight_41] = 19
+variables[blink_local_goal_weight_42] = 17
+variables[blink_local_goal_weight_43] = 16
+variables[blink_local_goal_weight_44] = 16
+variables[blink_local_goal_weight_45] = 16
+variables[blink_local_goal_weight_46] = 16
+variables[blink_local_goal_weight_47] = 15
+variables[blink_local_goal_weight_48] = 15
+variables[blink_local_goal_weight_49] = 14
+variables[blink_local_goal_weight_5] = 859
+variables[blink_local_goal_weight_50] = 14
+variables[blink_local_goal_weight_51] = 14
+variables[blink_local_goal_weight_52] = 14
+variables[blink_local_goal_weight_53] = 14
+variables[blink_local_goal_weight_54] = 14
+variables[blink_local_goal_weight_55] = 13
+variables[blink_local_goal_weight_56] = 13
+variables[blink_local_goal_weight_57] = 13
+variables[blink_local_goal_weight_58] = 13
+variables[blink_local_goal_weight_59] = 12
+variables[blink_local_goal_weight_6] = 551
+variables[blink_local_goal_weight_60] = 12
+variables[blink_local_goal_weight_61] = 12
+variables[blink_local_goal_weight_62] = 12
+variables[blink_local_goal_weight_63] = 12
+variables[blink_local_goal_weight_64] = 12
+variables[blink_local_goal_weight_65] = 11
+variables[blink_local_goal_weight_66] = 11
+variables[blink_local_goal_weight_67] = 11
+variables[blink_local_goal_weight_68] = 11
+variables[blink_local_goal_weight_69] = 11
+variables[blink_local_goal_weight_7] = 474
+variables[blink_local_goal_weight_70] = 10
+variables[blink_local_goal_weight_71] = 10
+variables[blink_local_goal_weight_72] = 10
+variables[blink_local_goal_weight_73] = 10
+variables[blink_local_goal_weight_74] = 10
+variables[blink_local_goal_weight_75] = 10
+variables[blink_local_goal_weight_76] = 10
+variables[blink_local_goal_weight_77] = 10
+variables[blink_local_goal_weight_78] = 10
+variables[blink_local_goal_weight_79] = 10
+variables[blink_local_goal_weight_8] = 252
+variables[blink_local_goal_weight_80] = 10
+variables[blink_local_goal_weight_81] = 9
+variables[blink_local_goal_weight_82] = 9
+variables[blink_local_goal_weight_83] = 9
+variables[blink_local_goal_weight_84] = 9
+variables[blink_local_goal_weight_85] = 9
+variables[blink_local_goal_weight_86] = 9
+variables[blink_local_goal_weight_87] = 9
+variables[blink_local_goal_weight_88] = 9
+variables[blink_local_goal_weight_89] = 9
+variables[blink_local_goal_weight_9] = 231
+variables[blink_local_goal_weight_90] = 9
+variables[blink_local_goal_weight_91] = 9
+variables[blink_local_goal_weight_92] = 9
+variables[blink_local_goal_weight_93] = 8
+variables[blink_local_goal_weight_94] = 8
+variables[blink_local_goal_weight_95] = 8
+variables[blink_local_goal_weight_96] = 8
+variables[blink_local_goal_weight_97] = 8
+variables[blink_local_goal_weight_98] = 8
+variables[blink_local_goal_weight_99] = 8
+variables[blink_local_links_weight] = 1
+variables[blink_maximum_links_per_page] = 9
+variables[blink_page_keywords_count] = 100
+variables[blink_page_keywords_max] = 14
+variables[blink_page_keywords_min] = 14
+variables[blink_top_site_links_count] = 100
+variables[blink_top_site_links_max] = 14
+variables[blink_top_site_links_min] = 10
+variables[blink_top_site_links_rand_count] = 300
+variables[blink_top_site_links_rand_max] = 14
+variables[blink_top_site_links_rand_min] = 8
+variables[block_cache] = 1
+variables[cache_flush_cache_page] = 1312940464
+variables[cache_flush_cache_styles] = 1312860316
+variables[cache_lifetime] = 0
+variables[clean_url] = 1
+variables[collapsiblock_settings][block-blink-blink-top-site-links-rand] = 3
+variables[collapsiblock_settings][block-blink-blink-top-site-links] = 3
+variables[collapsiblock_settings][block-blink-blink-page-keywords] = 3
+variables[collapsiblock_settings][block-system-navigation] = 1
+variables[collapsiblock_settings][block-masquerade-masquerade] = 1
+variables[collapsiblock_settings][block-shortcut-shortcuts] = 1
+variables[collapsiblock_settings][block-views-recent-content-block] = 2
+variables[collapsiblock_settings][block-node-recent] = 1
+variables[color_pixture_reloaded_files][0] = public://color/pixture_reloaded-8c1bbd06/bullet-round.png
+variables[color_pixture_reloaded_files][1] = public://color/pixture_reloaded-8c1bbd06/bullet-sm-arrow-right.png
+variables[color_pixture_reloaded_files][2] = public://color/pixture_reloaded-8c1bbd06/bullet-sm-arrow-down.png
+variables[color_pixture_reloaded_files][3] = public://color/pixture_reloaded-8c1bbd06/button.gif
+variables[color_pixture_reloaded_files][4] = public://color/pixture_reloaded-8c1bbd06/button-o.gif
+variables[color_pixture_reloaded_files][5] = /var/www/sites_koc/beast/sites/free-backup-software.net/files/color/pixture_reloaded-8c1bbd06/header.png
+variables[color_pixture_reloaded_files][6] = /var/www/sites_koc/beast/sites/free-backup-software.net/files/color/pixture_reloaded-8c1bbd06/header-tile.png
+variables[color_pixture_reloaded_files][7] = /var/www/sites_koc/beast/sites/free-backup-software.net/files/color/pixture_reloaded-8c1bbd06/menu-tile.png
+variables[color_pixture_reloaded_files][8] = /var/www/sites_koc/beast/sites/free-backup-software.net/files/color/pixture_reloaded-8c1bbd06/bg-footer.png
+variables[color_pixture_reloaded_files][9] = /var/www/sites_koc/beast/sites/free-backup-software.net/files/color/pixture_reloaded-8c1bbd06/bg-footer-tile.png
+variables[color_pixture_reloaded_files][10] = /var/www/sites_koc/beast/sites/free-backup-software.net/files/color/pixture_reloaded-8c1bbd06/bg-menu.png
+variables[color_pixture_reloaded_files][11] = /var/www/sites_koc/beast/sites/free-backup-software.net/files/color/pixture_reloaded-8c1bbd06/bg-title.png
+variables[color_pixture_reloaded_files][12] = /var/www/sites_koc/beast/sites/free-backup-software.net/files/color/pixture_reloaded-8c1bbd06/bg-wall.png
+variables[color_pixture_reloaded_files][13] = /var/www/sites_koc/beast/sites/free-backup-software.net/files/color/pixture_reloaded-8c1bbd06/bg-bar-lite.png
+variables[color_pixture_reloaded_files][14] = /var/www/sites_koc/beast/sites/free-backup-software.net/files/color/pixture_reloaded-8c1bbd06/bg-bar.png
+variables[color_pixture_reloaded_files][15] = /var/www/sites_koc/beast/sites/free-backup-software.net/files/color/pixture_reloaded-8c1bbd06/bg-lbar-lite.png
+variables[color_pixture_reloaded_files][16] = /var/www/sites_koc/beast/sites/free-backup-software.net/files/color/pixture_reloaded-8c1bbd06/bg-lbar.png
+variables[color_pixture_reloaded_files][17] = /var/www/sites_koc/beast/sites/free-backup-software.net/files/color/pixture_reloaded-8c1bbd06/sf-hover-tile.png
+variables[color_pixture_reloaded_files][18] = public://color/pixture_reloaded-8c1bbd06/colors.css
+variables[color_pixture_reloaded_logo] = public://color/pixture_reloaded-8c1bbd06/logo.png
+variables[color_pixture_reloaded_palette][base] = #1c44a9
+variables[color_pixture_reloaded_palette][page] = #feffff
+variables[color_pixture_reloaded_palette][link] = #4b5cc3
+variables[color_pixture_reloaded_palette][top] = #062984
+variables[color_pixture_reloaded_palette][bottom] = #5283ff
+variables[color_pixture_reloaded_palette][text] = #555555
+variables[color_pixture_reloaded_palette][blockh] = #284ead
+variables[color_pixture_reloaded_palette][blockbg] = #bbc7e5
+variables[color_pixture_reloaded_palette][borders] = #bbc7e5
+variables[color_pixture_reloaded_palette][sticky] = #bbc7e5
+variables[color_pixture_reloaded_stylesheets][0] = public://color/pixture_reloaded-8c1bbd06/colors.css
+variables[color_sky_files][0] = public://color/sky-5f3e1e1f/logo.png
+variables[color_sky_files][1] = public://color/sky-5f3e1e1f/colors.css
+variables[color_sky_logo] = public://color/sky-5f3e1e1f/logo.png
+variables[color_sky_palette][text] = #000000
+variables[color_sky_palette][site_name] = #4c4742
+variables[color_sky_palette][site_slogan] = #837b72
+variables[color_sky_palette][title_page] = #100001
+variables[color_sky_palette][title_block] = #5e5247
+variables[color_sky_palette][title_linked] = #100011
+variables[color_sky_palette][link] = #1c6ea0
+variables[color_sky_palette][link_hover] = #42a9be
+variables[color_sky_palette][footer_links] = #126598
+variables[color_sky_palette][footer_links_hover] = #127ba5
+variables[color_sky_palette][header_links] = #0679be
+variables[color_sky_palette][header_links_hover] = #42a9ba
+variables[color_sky_palette][page_background] = #fafafa
+variables[color_sky_palette][tab_background] = #fffffe
+variables[color_sky_palette][tab_foreground] = #101010
+variables[color_sky_palette][tab_background_active] = #efedeb
+variables[color_sky_palette][tab_foreground_active] = #111111
+variables[color_sky_palette][navigation_background] = #e1dfdc
+variables[color_sky_palette][navigation_foreground] = #4d453e
+variables[color_sky_palette][node_links_background] = #e7e5e3
+variables[color_sky_palette][node_links_foreground] = #100100
+variables[color_sky_palette][node_links_background_hover] = #d7d5d3
+variables[color_sky_palette][node_links_foreground_hover] = #100101
+variables[color_sky_palette][footer_background] = #e3e1df
+variables[color_sky_palette][footer_foreground] = #010101
+variables[color_sky_palette][header_foreground] = #101000
+variables[color_sky_stylesheets][0] = public://color/sky-5f3e1e1f/colors.css
+variables[comment_affiliate_product] = 0
+variables[comment_article] = 1
+variables[comment_default_mode_affiliate_product] = 1
+variables[comment_default_mode_article] = 1
+variables[comment_default_mode_page] = 1
+variables[comment_default_per_page_affiliate_product] = 50
+variables[comment_default_per_page_article] = 50
+variables[comment_default_per_page_page] = 50
+variables[comment_form_location_affiliate_product] = 1
+variables[comment_form_location_article] = 1
+variables[comment_form_location_page] = 1
+variables[comment_page] = 0
+variables[comment_preview_affiliate_product] = 1
+variables[comment_preview_article] = 1
+variables[comment_preview_page] = 1
+variables[comment_subject_field_affiliate_product] = 1
+variables[comment_subject_field_article] = 1
+variables[comment_subject_field_page] = 1
+variables[contact_default_status] = 1
+variables[cron_key] = jimJ52KHbEyroV8i8jyfz2xwL-p-rNfPhMh1tg8mIC4
+variables[cron_last] = 1329430789
+variables[crossdog_access_keys][30037] = 30037
+variables[crossdog_clients][liberty.notepad.com] = liberty.notepad.com
+variables[crossdog_clients][free-backup-software.net] = free-backup-software.net
+variables[crossdog_clients][free-data-recovery.info] = free-data-recovery.info
+variables[crossdog_last_checked] = 1329430820
+variables[crossdog_log_severities][WATCHDOG_EMERG] = 0
+variables[crossdog_log_severities][1] = 0
+variables[crossdog_log_severities][2] = 0
+variables[crossdog_log_severities][3] = 0
+variables[crossdog_log_severities][4] = 0
+variables[crossdog_log_severities][5] = 0
+variables[crossdog_log_severities][6] = 0
+variables[crossdog_log_severities][7] = 0
+variables[crossdog_log_types] = test
+variables[crossdog_privatekey] = -----BEGIN RSA PRIVATE KEY-----
+MIICXQIBAAKBgQDDJuYk9zchuETV2zBsXefmxpeEl2OXqvAeRHd303XhqcLCaWau
+CIRNKPFuKx9cXYgK648HxLTfnWF/GgScQ8ao+tOVamzwiGdyg8RNj6KJvb1Vocgw
+M5GPFg4tnuaK68Y9RYs/ToaeqjymDdbQYSX+D5tp5corvZldKUKxmMnBywIDAQAB
+AoGBAKcFcc+NbbgEV5WYpRb6P/G5YhBu6SPzftLI0l7RsoBSpIdzYhfs3h6Tvh4F
+9i89NaPy+1Uwu4Tu03TOtcdwEmMoNsmzO1hprzkRx1JiZmy6ICzIsGdwxsWEpO1B
+ND3UOsaua8YE/d3T++ZmltDHEL10AN+G9qtqAA2sCJgvIHWhAkEA+shwmBSoMZxP
+zOQckZ1XNzkXI0f7ZljEozroQdglSO8jVDe/W9RMSQ2LXtKMiCrH/QEWNb7Or9La
+Ber6YKSScwJBAMc2MVhu4rXR0GH2rGEVtthbFLqPEPyDlfknVTfz1EuCE8aTqOlu
+lj+VmlbQh4PvqWUQvWk8dAIVrGNPz0hRRUkCQQD5uRbFmexSWoDsWkpIhhEPIH51
+13vz0nkcwc/9oSqfkeHwPwMCgkjkheQ+rBLclR1IRwjCxBo04xXPxslD6x0ZAkAP
+t9vu4VjsBbEOebsiMedqbM1W5wDtG6jSruLPdmKyzoGm8nGqcXpTbAdwgCWhKGDS
+Q57eVdHFdFZUw7BUQW1ZAkAfaVvG2MXMviubK+zCL5EOxLjKs3+qCMPB2LPP8S06
+FFcfnzHiyOADcjKroy0AgRZJpJIT29tR5MMvalKJdcfn
+-----END RSA PRIVATE KEY-----
+
+variables[crossdog_publickey] = -----BEGIN PUBLIC KEY-----
+MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDDJuYk9zchuETV2zBsXefmxpeE
+l2OXqvAeRHd303XhqcLCaWauCIRNKPFuKx9cXYgK648HxLTfnWF/GgScQ8ao+tOV
+amzwiGdyg8RNj6KJvb1VocgwM5GPFg4tnuaK68Y9RYs/ToaeqjymDdbQYSX+D5tp
+5corvZldKUKxmMnBywIDAQAB
+-----END PUBLIC KEY-----
+
+variables[crossdog_server_key] = 30037
+variables[crossdog_severities][] = 
+variables[crossdog_types][beast] = beast
+variables[crossdog_updates] = 1
+variables[css_js_query_string] = lzeuc0
+variables[ctools_last_cron] = 1329430820
+variables[date_default_timezone] = America/Los_Angeles
+variables[dblog_row_limit] = 0
+variables[default_nodes_main] = 10
+variables[devel_api_url] = api.drupal.org
+variables[devel_error_handler] = 1
+variables[devel_execution] = 5
+variables[devel_krumo_skin] = orange
+variables[devel_query_sort] = 1
+variables[disqus_domain] = libertynotepad
+variables[disqus_inherit_login] = 1
+variables[disqus_location] = content_area
+variables[disqus_nodetypes][article] = article
+variables[disqus_nodetypes][adserve] = 0
+variables[disqus_nodetypes][affiliate_product] = 0
+variables[disqus_nodetypes][page] = 0
+variables[disqus_userapikey] = afFu1c5wQZOswjzCbmGqIiBxI3BymaxyZkPFTDkXslwi8sI5z570zPHzlmKCMSTV
+variables[disqus_weight] = 50
+variables[drupal_http_request_fails] = 1
+variables[email__active_tab] = edit-email-admin-created
+variables[error_level] = 1
+variables[feed_default_items] = 1
+variables[feed_item_length] = title
+variables[fieldset_helper_default_collapsed_pages] = admin/modules
+variables[fieldset_helper_default_collapsible_pages] = *
+variables[fieldset_helper_node_form_state] = 1
+variables[fieldset_helper_toggle_all_minimum] = 2
+variables[fieldset_helper_toggle_all_pages] = admin/modules
+admin/modules/list
+variables[field_bundle_settings][node][article][view_modes][full] = Array
+variables[field_bundle_settings][node][article][view_modes][teaser] = Array
+variables[field_bundle_settings][node][article][view_modes][rss] = Array
+variables[field_bundle_settings][node][article][view_modes][search_index] = Array
+variables[field_bundle_settings][node][article][view_modes][search_result] = Array
+variables[field_bundle_settings][node][article][extra_fields][form] = Array
+variables[field_bundle_settings][node][article][extra_fields][display] = Array
+variables[field_bundle_settings][node][affiliate_product][view_modes][teaser] = Array
+variables[field_bundle_settings][node][affiliate_product][view_modes][full] = Array
+variables[field_bundle_settings][node][affiliate_product][view_modes][rss] = Array
+variables[field_bundle_settings][node][affiliate_product][view_modes][search_index] = Array
+variables[field_bundle_settings][node][affiliate_product][view_modes][search_result] = Array
+variables[field_bundle_settings][node][affiliate_product][extra_fields][form] = Array
+variables[field_bundle_settings][node][affiliate_product][extra_fields][display] = Array
+variables[field_bundle_settings][file][default][extra_fields][form] = Array
+variables[field_bundle_settings][file][default][extra_fields][display] = Array
+variables[field_bundle_settings][file][image][extra_fields][form] = Array
+variables[field_bundle_settings][file][image][extra_fields][display] = Array
+variables[field_bundle_settings][file][audio][extra_fields][form] = Array
+variables[field_bundle_settings][file][audio][extra_fields][display] = Array
+variables[field_bundle_settings][file][video][extra_fields][form] = Array
+variables[field_bundle_settings][file][video][extra_fields][display] = Array
+variables[field_bundle_settings][comment][comment_node_article][view_modes][full] = Array
+variables[field_bundle_settings][comment][comment_node_article][extra_fields][form] = Array
+variables[field_bundle_settings][comment][comment_node_article][extra_fields][display] = Array
+variables[field_bundle_settings][comment][comment_node_affiliate_product][view_modes][full] = Array
+variables[field_bundle_settings][comment][comment_node_affiliate_product][extra_fields][form] = Array
+variables[field_bundle_settings][comment][comment_node_affiliate_product][extra_fields][display] = Array
+variables[field_bundle_settings][user][user][view_modes][full] = Array
+variables[field_bundle_settings][user][user][extra_fields][form] = Array
+variables[field_bundle_settings][user][user][extra_fields][display] = Array
+variables[file_default_scheme] = public
+variables[file_public_path] = sites/default/files
+variables[file_styles__preview_image] = public://file-styles/sample.png
+variables[file_temporary_path] = /tmp
+variables[filter_fallback_format] = plain_text
+variables[fivestar_article] = 1
+variables[fivestar_feedback_article] = 1
+variables[fivestar_labels_article][0] = Cancel rating
+variables[fivestar_labels_article][1] = Poor
+variables[fivestar_labels_article][2] = Okay
+variables[fivestar_labels_article][3] = Good
+variables[fivestar_labels_article][4] = Great
+variables[fivestar_labels_article][5] = Awesome
+variables[fivestar_labels_article][6] = Give it @star/@count
+variables[fivestar_labels_article][7] = Give it @star/@count
+variables[fivestar_labels_article][8] = Give it @star/@count
+variables[fivestar_labels_article][9] = Give it @star/@count
+variables[fivestar_labels_article][10] = Give it @star/@count
+variables[fivestar_labels_enable_article] = 1
+variables[fivestar_position_article] = above
+variables[fivestar_position_teaser_article] = above_static
+variables[fivestar_stars_article] = 5
+variables[fivestar_style_article] = smart
+variables[fivestar_text_article] = none
+variables[globalredirect_settings][canonical] = 1
+variables[globalredirect_settings][content_location_header] = 1
+variables[googleanalytics_account] = UA-7097057-2
+variables[googleanalytics_custom] = 0
+variables[googleanalytics_custom_var][slots][1][slot] = 1
+variables[googleanalytics_custom_var][slots][1][name] = 
+variables[googleanalytics_custom_var][slots][1][value] = 
+variables[googleanalytics_custom_var][slots][1][scope] = 3
+variables[googleanalytics_custom_var][slots][2][slot] = 2
+variables[googleanalytics_custom_var][slots][2][name] = 
+variables[googleanalytics_custom_var][slots][2][value] = 
+variables[googleanalytics_custom_var][slots][2][scope] = 3
+variables[googleanalytics_custom_var][slots][3][slot] = 3
+variables[googleanalytics_custom_var][slots][3][name] = 
+variables[googleanalytics_custom_var][slots][3][value] = 
+variables[googleanalytics_custom_var][slots][3][scope] = 3
+variables[googleanalytics_custom_var][slots][4][slot] = 4
+variables[googleanalytics_custom_var][slots][4][name] = 
+variables[googleanalytics_custom_var][slots][4][value] = 
+variables[googleanalytics_custom_var][slots][4][scope] = 3
+variables[googleanalytics_custom_var][slots][5][slot] = 5
+variables[googleanalytics_custom_var][slots][5][name] = 
+variables[googleanalytics_custom_var][slots][5][value] = 
+variables[googleanalytics_custom_var][slots][5][scope] = 3
+variables[googleanalytics_domain_mode] = 0
+variables[googleanalytics_js_scope] = header
+variables[googleanalytics_pages] = admin
+admin/*
+batch
+node/add*
+node/*/*
+user/*/*
+variables[googleanalytics_privacy_donottrack] = 1
+variables[googleanalytics_roles][1] = 0
+variables[googleanalytics_roles][2] = 0
+variables[googleanalytics_roles][3] = 0
+variables[googleanalytics_roles][4] = 0
+variables[googleanalytics_roles][5] = 0
+variables[googleanalytics_trackfiles] = 1
+variables[googleanalytics_trackfiles_extensions] = 7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip
+variables[googleanalytics_trackmailto] = 1
+variables[googleanalytics_trackoutbound] = 1
+variables[googleanalytics_visibility_pages] = 0
+variables[googleanalytics_visibility_roles] = 0
+variables[imageapi_optimize_service] = smushit
+variables[imageapi_optimize_toolkit] = gd
+variables[image_jpeg_quality] = 90
+variables[image_toolkit] = gd
+variables[initial-keywords_blink_description] = ("beast" module) These are "best guess" or "early target" keywords drawn from the "Initial Keywords" field in syndicated content and affiliated products. Note: if KWGOALS module is enabled, any keywords in the KWGOALS list will be removed from this list automatically.
+variables[initial-keywords_blink_readonly] = 1
+variables[initial-keywords_blink_weight] = -5
+variables[install_profile] = standard
+variables[install_task] = done
+variables[install_time] = 1310685490
+variables[koc_article_audiofield] = none
+variables[koc_article_imagefield] = field_image
+variables[koc_article_videofield] = none
+variables[koc_copyright] = Copyright 2008-[site-date-yyyy] - http://fb7.info
+variables[koc_email] = chad@notepad.com
+variables[koc_files_folder] = files
+variables[koc_initial_keyword_weight] = 50
+variables[koc_language] = en-us
+variables[koc_last_blink_update] = 1311456912
+variables[koc_page_audiofield] = none
+variables[koc_page_imagefield] = none
+variables[koc_page_videofield] = none
+variables[koc_podcast_description] = Audio Feed of  from http://fb7.info
+variables[koc_podcast_needs_updated] = 1
+variables[koc_podcast_title] = Free Backup Info Audio Podcast
+variables[koc_promote_types][article] = article
+variables[koc_promote_types][page] = page
+variables[koc_resource_box] = [author-name] {writes for|is a contributor at|contributes writing to} [site-link]. {More information|Similar work|The original research|Additional information} {is available at|is published at|can be found at|is available at} [node-link]. [author-name] also contributed to [product-link]
+variables[koc_rss_body_header] = [author-name] is a contributor at [site-link]. Similar work is available at [node-link]. [author-name] also contributed to [product-link] 
+variables[koc_rss_description] = RSS Feed of  from http://fb7.info
+variables[koc_rss_title] = Free Backup Info RSS Feed
+variables[koc_site_author] = Noah Sanders
+variables[koc_site_url] = http://fb7.info
+variables[kwgoals_blink_readonly] = 1
+variables[kwgoals_last_blink_update] = 1329430822
+variables[kwgoals_searchhits] = 592
+variables[logintoboggan_confirm_email_at_registration] = 0
+variables[logintoboggan_login_successful_message] = 0
+variables[logintoboggan_login_with_email] = 1
+variables[logintoboggan_minimum_password_length] = 0
+variables[logintoboggan_override_destination_parameter] = 1
+variables[logintoboggan_pre_auth_role] = 2
+variables[logintoboggan_purge_unvalidated_user_interval] = 7776000
+variables[logintoboggan_unified_login] = 1
+variables[mailchimp_api_key] = a025dadc9f0132ed75c07a9188f5524e-us2
+variables[mailchimp_batch_limit] = 5000
+variables[mailchimp_use_secure] = 1
+variables[mail_redirect_domain] = chadananda@gmail.com
+variables[mail_system][default-system] = DefaultMailSystem
+variables[mail_system][mimemail] = MimeMailSystem
+variables[masquerade_admin_roles][3] = 3
+variables[masquerade_admin_roles][1] = 0
+variables[masquerade_admin_roles][2] = 0
+variables[masquerade_admin_roles][4] = 0
+variables[masquerade_admin_roles][5] = 0
+variables[masquerade_quick_switches][0] = 48
+variables[masquerade_test_user] = test_editor
+variables[menu_expanded][0] = navigation
+variables[menu_masks][0] = 501
+variables[menu_masks][1] = 250
+variables[menu_masks][2] = 245
+variables[menu_masks][3] = 125
+variables[menu_masks][4] = 124
+variables[menu_masks][5] = 123
+variables[menu_masks][6] = 122
+variables[menu_masks][7] = 121
+variables[menu_masks][8] = 117
+variables[menu_masks][9] = 112
+variables[menu_masks][10] = 63
+variables[menu_masks][11] = 62
+variables[menu_masks][12] = 61
+variables[menu_masks][13] = 60
+variables[menu_masks][14] = 59
+variables[menu_masks][15] = 58
+variables[menu_masks][16] = 44
+variables[menu_masks][17] = 31
+variables[menu_masks][18] = 30
+variables[menu_masks][19] = 29
+variables[menu_masks][20] = 28
+variables[menu_masks][21] = 27
+variables[menu_masks][22] = 24
+variables[menu_masks][23] = 21
+variables[menu_masks][24] = 15
+variables[menu_masks][25] = 14
+variables[menu_masks][26] = 13
+variables[menu_masks][27] = 11
+variables[menu_masks][28] = 7
+variables[menu_masks][29] = 6
+variables[menu_masks][30] = 5
+variables[menu_masks][31] = 3
+variables[menu_masks][32] = 2
+variables[menu_masks][33] = 1
+variables[menu_options_page][0] = main-menu
+variables[menu_parent_affiliate_product] = main-menu:0
+variables[menu_parent_article] = devel:0
+variables[menu_parent_page] = main-menu:0
+variables[mimemail_format] = plain_text
+variables[mimemail_key] = adb3ba47fd6eb677847e03b4bb77a1e8
+variables[mimemail_mail] = chand@free-data-recovery.info
+variables[mimemail_name] = Free Data Recovery info
+variables[mimemail_simple_address] = 1
+variables[mimemail_textonly] = 1
+variables[nfs_author_information_article] = 0
+variables[nfs_cancel_article][0] = nfs_cancel_status
+variables[nfs_comments_article] = 1
+variables[nfs_hide_node_title_article] = 0
+variables[nfs_inputformat_article] = 1
+variables[nfs_path_article] = 1
+variables[nfs_publishingoptions_article] = 1
+variables[nfs_revisionlog_article] = 1
+variables[nfs_submit_article] = Submit
+variables[nfs_title_create_article] = Create !node_type
+variables[nfs_title_edit_article] = !node_title
+variables[nodeformsettings_article][nfs_inputformat] = 1
+variables[nodeformsettings_article][nfs_revisionlog] = 1
+variables[nodeformsettings_article][nfs_author_information] = 0
+variables[nodeformsettings_article][nfs_path] = 1
+variables[nodeformsettings_article][nfs_publishingoptions] = 1
+variables[nodeformsettings_article][nfs_comments] = 1
+variables[nodeformsettings_article][nfs_cancel][nfs_cancel_status] = 1
+variables[nodeformsettings_article][nfs_cancel][nfs_cancel_behaviour] = 0
+variables[nodeformsettings_article][nfs_submit] = Submit
+variables[nodeformsettings_article][nfs_hide_node_title] = 0
+variables[nodeformsettings_article][nfs_title_create] = Create !node_type
+variables[nodeformsettings_article][nfs_title_edit] = !node_title
+variables[node_admin_theme] = 1
+variables[node_cron_last] = 1320607359
+variables[node_options_affiliate_product][0] = status
+variables[node_options_page][0] = status
+variables[node_preview_affiliate_product] = 0
+variables[node_preview_article] = 0
+variables[node_preview_page] = 1
+variables[node_recent_block_count] = 20
+variables[page_cache_maximum_age] = 0
+variables[pathauto_blog_pattern] = blogs/[user:name]
+variables[pathauto_case] = 1
+variables[pathauto_forum_pattern] = [term:vocabulary]/[term:name]
+variables[pathauto_ignore_words] = a, an, as, at, before, but, by, for, from, is, in, into, like, of, off, on, onto, per, since, than, the, this, that, to, up, via, with
+variables[pathauto_max_component_length] = 100
+variables[pathauto_max_length] = 120
+variables[pathauto_node_affiliate_product_pattern] = tools/[node:title]
+variables[pathauto_node_article_pattern] = [node:title]
+variables[pathauto_node_page_pattern] = [node:title]
+variables[pathauto_node_pattern] = [node:title]
+variables[pathauto_punctuation_ampersand] = 0
+variables[pathauto_punctuation_asterisk] = 0
+variables[pathauto_punctuation_at] = 0
+variables[pathauto_punctuation_backtick] = 0
+variables[pathauto_punctuation_back_slash] = 0
+variables[pathauto_punctuation_caret] = 0
+variables[pathauto_punctuation_colon] = 1
+variables[pathauto_punctuation_comma] = 0
+variables[pathauto_punctuation_dollar] = 0
+variables[pathauto_punctuation_double_quotes] = 0
+variables[pathauto_punctuation_equal] = 0
+variables[pathauto_punctuation_exclamation] = 0
+variables[pathauto_punctuation_greater_than] = 0
+variables[pathauto_punctuation_hash] = 0
+variables[pathauto_punctuation_hyphen] = 1
+variables[pathauto_punctuation_left_curly] = 0
+variables[pathauto_punctuation_left_parenthesis] = 0
+variables[pathauto_punctuation_left_square] = 0
+variables[pathauto_punctuation_less_than] = 0
+variables[pathauto_punctuation_percent] = 0
+variables[pathauto_punctuation_period] = 0
+variables[pathauto_punctuation_pipe] = 0
+variables[pathauto_punctuation_plus] = 0
+variables[pathauto_punctuation_question_mark] = 0
+variables[pathauto_punctuation_quotes] = 0
+variables[pathauto_punctuation_right_curly] = 0
+variables[pathauto_punctuation_right_parenthesis] = 0
+variables[pathauto_punctuation_right_square] = 0
+variables[pathauto_punctuation_semicolon] = 1
+variables[pathauto_punctuation_slash] = 0
+variables[pathauto_punctuation_tilde] = 0
+variables[pathauto_punctuation_underscore] = 1
+variables[pathauto_reduce_ascii] = 1
+variables[pathauto_separator] = -
+variables[pathauto_taxonomy_term_pattern] = [term:vocabulary]/[term:name]
+variables[pathauto_update_action] = 2
+variables[pathauto_user_pattern] = users/[user:name]
+variables[path_alias_whitelist][node] = 1
+variables[path_alias_whitelist][user] = 1
+variables[privatekey] = -----BEGIN RSA PRIVATE KEY-----
+MIICXAIBAAKBgQDCgFTzVZSEFGJSPIR0oo7uG6CskenbWjEj2x/8a95ayjcdqfcu
+tR7hX/DxW/hprTiKItFImWNkXeRjE5IjiTy9kuFaGZv77KpJqqJ3nOjW8UFeZk1v
+zVm4A7w0Q7efd9NzUjo4mc1xQrOmec7KxpYYc2q6xXarxRN67e32r3OJgwIDAQAB
+AoGAUmLpmOj3L7syqoLX2E/DGzi4pmBoHnHlvrpiohlO5kYhcn88JJyzp+Nru9Cp
+OJoXCOwWmhne7/SVeSIhFMxc3XLIyhc4AKdWLVafI5/s20Qtry/gpOIzFwbM+nOu
+BG+HkGfZSsrxwyn7I0UbSSG2xIqICiwFv/+hBUjHmdI/1gECQQDqDjT0XtALmjKO
+fvm3bpJo1IoDMmeCQqMjhItqko5zD/kQOxPFDkJZFbTHUMNdjhb6U4L2ykRmk8V2
+EtHNFnVRAkEA1Ly/Cl2PVZCQR0F/YWpgaQ/Xghe+DJpQ/DcOzKwl2IkMVpB06W+G
+Aa7wEmnUrju8/2Sje07kvMYxUfbcDRBskwJARdO3OLCQoOV/78Mx/OegBmZiRlHj
+T5lR0mbYsRLILMu3IoB9hWybnrg7FruhjWe2szf2+mmdvnyXjIJQ1T6+AQJBALi0
+S9YvF1S+GFaVqogk+SIe7Aj6njqI/UmOcB4KVS2lB/5cm/VVq+7oOW5zToIcQeMo
+OLzF6dlw5r94auQ431sCQEQMojYhAKsrNNe0NHtt5O5RX0YZq99RQJYdY8Kgt4B0
+RKe6gSQ8x992GzRM11ONI6PV1aJOYqKBY2xA6M2P5s4=
+-----END RSA PRIVATE KEY-----
+
+variables[realname_pattern] = [user:field-fullname]
+variables[redirect_auto_redirect] = 1
+variables[redirect_default_status_code] = 301
+variables[redirect_global_canonical] = 1
+variables[redirect_global_clean] = 1
+variables[redirect_global_home] = 1
+variables[redirect_page_cache] = 1
+variables[redirect_purge_inactive] = 15552000
+variables[save_continue_affiliate_product] = Save and add fields
+variables[scheduler_publish_enable_article] = 1
+variables[scheduler_publish_touch_article] = 1
+variables[settings__active_tab] = edit-advanced
+variables[shorten_bitly_key] = R_5058ea7a25588859076c37820c05dcc6
+variables[shorten_bitly_login] = chadananda
+variables[shorten_invisible_services][hex.io] = hex.io
+variables[shorten_invisible_services][idek.net] = idek.net
+variables[shorten_invisible_services][lin.cr] = lin.cr
+variables[shorten_invisible_services][Metamark] = Metamark
+variables[shorten_invisible_services][migre.me] = migre.me
+variables[shorten_invisible_services][PeekURL] = PeekURL
+variables[shorten_invisible_services][PiURL] = PiURL
+variables[shorten_invisible_services][qr.cx] = qr.cx
+variables[shorten_invisible_services][redir.ec] = redir.ec
+variables[shorten_invisible_services][retwt.me] = retwt.me
+variables[shorten_invisible_services][ri.ms] = ri.ms
+variables[shorten_invisible_services][surl.me] = surl.me
+variables[shorten_invisible_services][th8.us] = th8.us
+variables[shorten_invisible_services][tr.im] = tr.im
+variables[shorten_invisible_services][urlb.at] = urlb.at
+variables[shorten_invisible_services][urlCover] = urlCover
+variables[shorten_invisible_services][bit.ly] = 0
+variables[shorten_invisible_services][cli.gs] = 0
+variables[shorten_invisible_services][fwd4.me] = 0
+variables[shorten_invisible_services][is.gd] = 0
+variables[shorten_invisible_services][j.mp] = 0
+variables[shorten_invisible_services][short.ie] = 0
+variables[shorten_invisible_services][TinyURL] = 0
+variables[shorten_invisible_services][urlShort] = 0
+variables[shorten_method] = curl
+variables[shorten_service] = is.gd
+variables[shorten_service_backup] = TinyURL
+variables[shorten_use_alias] = 1
+variables[site_403] = toboggan/denied
+variables[site_default_country] = US
+variables[site_frontpage] = frontpage
+variables[site_mail] = info@notepad.com
+variables[site_name] = Liberty Notepad
+variables[site_slogan] = thoughts and opinions on the pursuit of freedom
+variables[sky_mediaqueries_css] = sky.responsive.layout.css
+variables[sky_mediaqueries_path] = public://at_css
+variables[tabs__active_tab] = edit-site-setup-users
+variables[themekey_attributes][drupal:base_path][description] = Drupal: Base path - If Drupal is installed in a subdirectory, the base path will be '/[subdirectory]/', otherwise just '/'.
+variables[themekey_attributes][drupal:base_path][page cache] = 1
+variables[themekey_attributes][drupal:get_q][description] = Drupal: $_GET['q'] - Current value of Drupal's query parameter "q"
+variables[themekey_attributes][drupal:get_q][validator] = 
+variables[themekey_attributes][drupal:get_q][page cache] = 1
+variables[themekey_attributes][drupal:is_front_page][description] = Drupal: Is front page - 'true' if current page is front page, otherwise just 'false'.
+variables[themekey_attributes][drupal:is_front_page][validator] = themekey_validator_string_boolean
+variables[themekey_attributes][drupal:is_front_page][page cache] = 1
+variables[themekey_attributes][drupal:path][description] = Drupal: Drupal path like "node/add/story" or path alias with support for wildcards.<br />
+Query parameters are stripped off before the path gets examined. P.e. "node/add/story?destination=node" becomes "node/add/story" first. If you want to access query parameters, have a look at the system:query_param property provided by <a href="http://drupal.org/project/themekey_properties">ThemeKey Properties</a>.<br />
+Wildcard characters are "#" for numeric parts and "%" for all characters. To match conditions against a certain part, use an identifier with the wildcard. For example "comment/reply/#xyz" matches all paths with "comment/reply" and a numeric third argument. You can then specify conditions for every wildcard argument using the property "drupal:path:wildcard" and the identifier you choose ("xyz" in this example).<br />
+These are the possible wildcard replacements for foo/bar/42/test.html:<pre>
+foo/bar/42/test.html
+foo/bar/42/%
+foo/bar/42
+foo/bar/%/test.html
+foo/bar/%/%
+foo/bar/%
+foo/bar/#/test.html
+foo/bar/#/%
+foo/bar/#
+foo/bar
+foo/%/42/test.html
+foo/%/42/%
+foo/%/42
+foo/%/%/test.html
+foo/%/%/%
+foo/%/%
+foo/%/#/test.html
+foo/%/#/%
+foo/%/#
+foo/%
+foo
+%/bar/42/test.html
+%/bar/42/%
+%/bar/42
+%/bar/%/test.html
+%/bar/%/%
+%/bar/%
+%/bar/#/test.html
+%/bar/#/%
+%/bar/#
+%/bar
+%/%/42/test.html
+%/%/42/%
+%/%/42
+%/%/%/test.html
+%/%/%/%
+%/%/%
+%/%/#/test.html
+%/%/#/%
+%/%/#
+%/%
+%
+</pre>
+variables[themekey_attributes][drupal:path][validator] = themekey_validator_drupal_path
+variables[themekey_attributes][drupal:path][page cache] = 1
+variables[themekey_attributes][drupal:path:wildcard][description] = Wildcard of "drupal:path". See explanation of "drupal:path" for details.
+variables[themekey_attributes][drupal:path:wildcard][validator] = themekey_validator_wildcard
+variables[themekey_attributes][drupal:path:wildcard][page cache] = 1
+variables[themekey_attributes][node:changed][description] = Node: Changed date - The date when the node was last edited/updated, formatted as unix timestamp like "1248873565".
+variables[themekey_attributes][node:changed][validator] = themekey_validator_ctype_digit
+variables[themekey_attributes][node:changed][page cache] = 1
+variables[themekey_attributes][node:changed_date][description] = Node: Changed date - The date without the time when the node was last edited/updated, formatted like "2009-12-24"
+variables[themekey_attributes][node:changed_date][validator] = themekey_validator_date
+variables[themekey_attributes][node:changed_date][page cache] = 1
+variables[themekey_attributes][node:changed_date_time][description] = Node: Changed date - The date including the time when the node was last edited/updated, formatted like "2009-12-24 18:13:24"
+variables[themekey_attributes][node:changed_date_time][validator] = themekey_validator_date_time
+variables[themekey_attributes][node:changed_date_time][page cache] = 1
+variables[themekey_attributes][node:created][description] = Node: Created date - The date when the node was created, formatted as unix timestamp like "1248873565".
+variables[themekey_attributes][node:created][validator] = themekey_validator_ctype_digit
+variables[themekey_attributes][node:created][page cache] = 1
+variables[themekey_attributes][node:created_date][description] = Node: Created date - The date without the time when the node was created, formatted like "2009-12-24"
+variables[themekey_attributes][node:created_date][validator] = themekey_validator_date
+variables[themekey_attributes][node:created_date][page cache] = 1
+variables[themekey_attributes][node:created_date_time][description] = Node: Created date - The date including the time when the node was created, formatted like "2009-12-24 18:13:24"
+variables[themekey_attributes][node:created_date_time][validator] = themekey_validator_date_time
+variables[themekey_attributes][node:created_date_time][page cache] = 1
+variables[themekey_attributes][node:language][description] = Node: Language - The code of the selected language of a node (formatted like "en" or "de") or "neutral". See <a href="/admin/config/language">admin/config/language</a> for the codes of your enabled languages
+variables[themekey_attributes][node:language][validator] = themekey_validator_language
+variables[themekey_attributes][node:language][page cache] = 1
+variables[themekey_attributes][node:nid][description] = Node: ID - The id of a node (nid), can be found in the URL of the node, "node/23" or "node/23/edit" (23 = nid)
+variables[themekey_attributes][node:nid][validator] = themekey_validator_ctype_digit
+variables[themekey_attributes][node:nid][page cache] = 1
+variables[themekey_attributes][node:promote][description] = Node: Promoted - If the node is promoted to the front page. Possible values are "0" for true and "1" for false.
+variables[themekey_attributes][node:promote][validator] = themekey_validator_nummeric_boolean
+variables[themekey_attributes][node:promote][page cache] = 1
+variables[themekey_attributes][node:sticky][description] = Node: Sticky - If the node is set "Sticky at top of lists". Possible values are "0" for true and "1" for false.
+variables[themekey_attributes][node:sticky][validator] = themekey_validator_nummeric_boolean
+variables[themekey_attributes][node:sticky][page cache] = 1
+variables[themekey_attributes][node:title][description] = Node: Title - The title of the node.
+variables[themekey_attributes][node:title][validator] = 
+variables[themekey_attributes][node:title][page cache] = 1
+variables[themekey_attributes][node:type][description] = Node: Type - The machine-readable content type of the node. See <a href="/admin/structure/types">admin/structure/types</a> for your content types (use column "Type"). Drupal default types are "page" and "story".
+variables[themekey_attributes][node:type][validator] = themekey_validator_node_type
+variables[themekey_attributes][node:type][page cache] = 1
+variables[themekey_attributes][node:uid][description] = Node: User ID - The node author's user id (uid). The user id can be found in the URL of the user's profile page, "user/23" or "user/23/edit" (23 = uid). See <a href="/admin/user/user/list">admin/user/user/list</a> for your users.
+variables[themekey_attributes][node:uid][validator] = themekey_validator_ctype_digit
+variables[themekey_attributes][node:uid][page cache] = 1
+variables[themekey_attributes][node:vid][description] = Node: The version id of a node (vid), mostly for internal use within ThemeKey. In most cases it's better to use node:nid within your rule chains.
+variables[themekey_attributes][node:vid][validator] = themekey_validator_ctype_digit
+variables[themekey_attributes][node:vid][page cache] = 1
+variables[themekey_attributes][system:cookie][description] = System: Cookie - Every single cookie and its value if present will be formatted like 'COOKIE_NAME=COOKIE_VALUE'
+variables[themekey_attributes][system:cookie][page cache] = 0
+variables[themekey_attributes][system:date][description] = System: Date - Current time formatted as Y-m-d (example: 2009-12-24)
+variables[themekey_attributes][system:date][validator] = themekey_validator_date
+variables[themekey_attributes][system:date][page cache] = 2
+variables[themekey_attributes][system:date_time][description] = System: Date Time - Current time formatted as Y-m-d H:i:s (example: 2009-12-24 18:30:10)
+variables[themekey_attributes][system:date_time][validator] = themekey_validator_date_time
+variables[themekey_attributes][system:date_time][page cache] = 2
+variables[themekey_attributes][system:day_of_month][description] = System: Day of Month - Current day of the month formatted as 1 - 31
+variables[themekey_attributes][system:day_of_month][validator] = themekey_validator_day_of_month
+variables[themekey_attributes][system:day_of_month][page cache] = 2
+variables[themekey_attributes][system:day_of_week][description] = System: Day of Week - Current day of the week formatted as three letters 'Mon' through 'Sun'
+variables[themekey_attributes][system:day_of_week][validator] = themekey_validator_day_of_week
+variables[themekey_attributes][system:day_of_week][page cache] = 2
+variables[themekey_attributes][system:dummy][description] = System: Dummy - Dummy property. Value is always 'dummy'
+variables[themekey_attributes][system:dummy][page cache] = 1
+variables[themekey_attributes][system:host][description] = System: HTTP_HOST - The hostname/domain of the site without http:// or https://, like "www.drupal.org" or "drupal.cocomore.com"
+variables[themekey_attributes][system:host][validator] = themekey_validator_http_host
+variables[themekey_attributes][system:host][page cache] = 1
+variables[themekey_attributes][system:https][description] = System: 'HTTPS' - Set to 'true' value if the script was queried through the HTTPS protocol, otherwise 'false'.
+variables[themekey_attributes][system:https][validator] = themekey_validator_string_boolean
+variables[themekey_attributes][system:https][page cache] = 1
+variables[themekey_attributes][system:month][description] = System: Month - Current month formatted as 'Jan' through 'Dec'
+variables[themekey_attributes][system:month][validator] = themekey_validator_month
+variables[themekey_attributes][system:month][page cache] = 2
+variables[themekey_attributes][system:post][description] = System: POST - Every single POST value formatted like 'POST_VARIABLE_NAME=POST_VARIABLE_VALUE'. Example: form_id=node_form
+variables[themekey_attributes][system:post][page cache] = 0
+variables[themekey_attributes][system:query_param][description] = System: Query Parameter - Every single query parameter other than 'q' and its value, if present. Note that values are url decoded. Example: '?q=node&foo=bar&dummy&filter=tid%3A27' will cause three entries 'foo=bar', 'dummy' and 'filter=tid:27'. For 'q', see property drupal:get_q.
+variables[themekey_attributes][system:query_param][page cache] = 1
+variables[themekey_attributes][system:query_string][description] = System: Query String - Complete query string except parameter 'q'. Example: '?q=node&foo=bar&dummy&filter=tid%3A27' will result in 'foo=bar&dummy&filter=tid%3A27'. For 'q' see property drupal:get_q.
+variables[themekey_attributes][system:query_string][page cache] = 1
+variables[themekey_attributes][system:random][description] = System: Random - A random value that could be '0' or 1'.
+variables[themekey_attributes][system:random][validator] = themekey_validator_nummeric_boolean
+variables[themekey_attributes][system:random][page cache] = 0
+variables[themekey_attributes][system:referer][description] = System: 'HTTP_REFERER' - The address of the page (if any) which referred the user agent to the current page. This is set by the user agent. Not all user agents will set this, and some provide the ability to modify HTTP_REFERER as a feature. In short, it cannot really be trusted.
+variables[themekey_attributes][system:referer][page cache] = 0
+variables[themekey_attributes][system:remote_ip][description] = System: 'REMOTE_ADDR' - The IP address from which the user is viewing the current page.
+variables[themekey_attributes][system:remote_ip][validator] = themekey_validator_ip_address
+variables[themekey_attributes][system:remote_ip][page cache] = 0
+variables[themekey_attributes][system:server_ip][description] = System: 'SERVER_ADDR' - The IP address of the server under which the current script is executing.
+variables[themekey_attributes][system:server_ip][validator] = themekey_validator_ip_address
+variables[themekey_attributes][system:server_ip][page cache] = 0
+variables[themekey_attributes][system:server_name][description] = System:  'SERVER_NAME' - The name of the server host under which the current script is executing. If the script is running on a virtual host, this will be the value defined for that virtual host.
+variables[themekey_attributes][system:server_name][page cache] = 0
+variables[themekey_attributes][system:server_port][description] = System: 'SERVER_PORT' - The port on the server machine being used by the web server for communication. For default setups, this will be '80'; using SSL, for instance, will change this to whatever your defined secure HTTP port is.
+variables[themekey_attributes][system:server_port][validator] = themekey_validator_ctype_digit
+variables[themekey_attributes][system:server_port][page cache] = 0
+variables[themekey_attributes][system:session][description] = System: Session - Every single session parameter and its value, if a value is present and a simple type (string, integer, boolean). Booleans are represented as integers; '1' as TRUE and '0' as FALSE.
+variables[themekey_attributes][system:session][page cache] = 1
+variables[themekey_attributes][system:time][description] = System: Time - Current time formatted as H:i:s (example: 18:30:10)
+variables[themekey_attributes][system:time][validator] = themekey_validator_time
+variables[themekey_attributes][system:time][page cache] = 2
+variables[themekey_attributes][system:user_agent][description] = System: 'HTTP_USER_AGENT' - Contents of the User-Agent: header from the current request, if there is one. This is a string denoting the user agent which is accessing the page. A typical example is: Mozilla/4.5 [en] (X11; U; Linux 2.2.9 i586).
+variables[themekey_attributes][system:user_agent][page cache] = 0
+variables[themekey_attributes][system:user_browser][description] = System: Browser - Information about user's browser. Possible values: 'Blazer [VERSION]', 'Internet Explorer [VERSION]', 'Mozilla Firefox [VERSION]', 'Netscape [VERSION]', 'Google Chrome [VERSION]', 'Safari [VERSION]', 'Galeon [VERSION]', 'Konqueror [VERSION]', 'Gecko based', 'Opera [VERSION]', 'Lynx [VERSION]', 'Fennec [VERSION]', 'Maemo [VERSION]', 'unknown'
+variables[themekey_attributes][system:user_browser][page cache] = 0
+variables[themekey_attributes][system:user_browser_simplified][description] = System: Browser - Simplified information about user's browser. Possible values: 'Blazer', 'Internet Explorer', 'Mozilla Firefox', 'Netscape', 'Google Chrome', 'Safari', 'Galeon', 'Konqueror', 'Gecko based', 'Opera', 'Lynx', 'Fennec', 'Maemo', 'unknown'
+variables[themekey_attributes][system:user_browser_simplified][page cache] = 0
+variables[themekey_attributes][system:user_os][description] = System: Operating System - Information about user's browser. Possible values: 'Windows XP', 'Windows Vista', 'Windows 98', 'Windows 2000', 'Windows 2003 server', 'Windows NT',  'Windows ME', 'Windows CE', 'Windows ME', 'iPhone', 'iPad', 'Mac OS X', 'Macintosh', 'Linux', 'Free BSD', 'Symbian', 'webOS', 'Android', 'Blackberry', 'unknown'
+variables[themekey_attributes][system:user_os][page cache] = 0
+variables[themekey_attributes][system:user_os_simplified][description] = System: Operating System - Simplified information about user's browser. Possible values: 'Windows', 'iPhone', 'iPad', 'Mac OS X', 'Macintosh', 'Linux', 'Free BSD', 'Symbian', 'webOS', 'Android', 'Blackberry', 'unknown'
+variables[themekey_attributes][system:user_os_simplified][page cache] = 0
+variables[themekey_attributes][taxonomy:tid][description] = Taxonomy: Term - The term id (tid) of a taxonomy term.
+variables[themekey_attributes][taxonomy:tid][validator] = themekey_validator_ctype_digit
+variables[themekey_attributes][taxonomy:tid][page cache] = 1
+variables[themekey_attributes][taxonomy:tid_and_childs][description] = Taxonomy: Term and its childs - The term id (tid) of a taxonomy term. If set, all child terms of this term will be used too.
+variables[themekey_attributes][taxonomy:tid_and_childs][validator] = themekey_validator_ctype_digit
+variables[themekey_attributes][taxonomy:tid_and_childs][page cache] = 0
+variables[themekey_attributes][taxonomy:vid][description] = Taxonomy: Vocabulary - The vocabulary id (vid) of a taxonomy vocabulary. See <a href="/admin/structure/taxonomy">admin/structure/taxonomy</a> for your vocabularies.
+variables[themekey_attributes][taxonomy:vid][validator] = themekey_validator_ctype_digit
+variables[themekey_attributes][taxonomy:vid][page cache] = 1
+variables[themekey_attributes][user:hostname][description] = User: Hostname - The user hostname property which is the IP address of client machine, adjusted for reverse proxy. Text from Drupal bootstrap.inc:
+      If Drupal is behind a reverse proxy, we use the X-Forwarded-For header instead of $_SERVER['REMOTE_ADDR'], which would be the IP address of the proxy server, and not the client's.
+variables[themekey_attributes][user:hostname][validator] = themekey_validator_http_host
+variables[themekey_attributes][user:hostname][page cache] = 0
+variables[themekey_attributes][user:language][description] = User: Language - The language the user has set in the settings of his profile page.
+      Format is the language code (for example "en" for English or "de" for German) that can be found on <a href="/admin/config/regional/language/overview">admin/config/regional/language/overview</a>.
+variables[themekey_attributes][user:language][validator] = themekey_validator_language
+variables[themekey_attributes][user:language][page cache] = 1
+variables[themekey_attributes][user:name][description] = User: Name - The username of the user. See <a href="/admin/people/people">admin/people/people</a> for your users.
+variables[themekey_attributes][user:name][page cache] = 1
+variables[themekey_attributes][user:role][description] = User: Role - Defined user roles (examples: 'anonymous user', 'authenticated user')
+variables[themekey_attributes][user:role][validator] = themekey_validator_role
+variables[themekey_attributes][user:role][page cache] = 1
+variables[themekey_attributes][user:uid][description] = User: ID - The id of the user (uid). The user id can be found in the URL of the users profile page, "user/23" or "user/23/edit" (23 = uid). See <a href="/admin/people/people">admin/people/people</a> for your users.
+variables[themekey_attributes][user:uid][validator] = themekey_validator_ctype_digit
+variables[themekey_attributes][user:uid][page cache] = 1
+variables[themekey_attributes][views:vid][description] = Views: VID - The vid of a view (vid)
+variables[themekey_attributes][views:vid][validator] = themekey_validator_ctype_digit
+variables[themekey_attributes][views:vid][page cache] = 1
+variables[themekey_maps][0][src] = taxonomy:tid
+variables[themekey_maps][0][dst] = taxonomy:vid
+variables[themekey_maps][0][callback] = themekey_taxonomy_tid2vid
+variables[themekey_maps][1][src] = taxonomy:tid
+variables[themekey_maps][1][dst] = taxonomy:tid_and_childs
+variables[themekey_maps][1][callback] = themekey_taxonomy_tid2tid_and_parents
+variables[themekey_maps][2][src] = node:nid
+variables[themekey_maps][2][dst] = taxonomy:tid
+variables[themekey_maps][2][callback] = themekey_taxonomy_nid2tid
+variables[themekey_maps][3][src] = drupal:get_q
+variables[themekey_maps][3][dst] = views:vid
+variables[themekey_maps][3][callback] = themekey_views_vid2getq
+variables[themekey_maps][4][src] = node:nid
+variables[themekey_maps][4][dst] = node:changed
+variables[themekey_maps][4][callback] = themekey_node_nid2changed
+variables[themekey_maps][5][src] = node:nid
+variables[themekey_maps][5][dst] = node:created
+variables[themekey_maps][5][callback] = themekey_node_nid2created
+variables[themekey_maps][6][src] = node:changed
+variables[themekey_maps][6][dst] = node:changed_date_time
+variables[themekey_maps][6][callback] = themekey_node_timestamp2datetime
+variables[themekey_maps][7][src] = node:created
+variables[themekey_maps][7][dst] = node:created_date_time
+variables[themekey_maps][7][callback] = themekey_node_timestamp2datetime
+variables[themekey_maps][8][src] = node:changed
+variables[themekey_maps][8][dst] = node:changed_date
+variables[themekey_maps][8][callback] = themekey_node_timestamp2date
+variables[themekey_maps][9][src] = node:created
+variables[themekey_maps][9][dst] = node:created_date
+variables[themekey_maps][9][callback] = themekey_node_timestamp2date
+variables[themekey_maps][10][src] = node:nid
+variables[themekey_maps][10][dst] = node:language
+variables[themekey_maps][10][callback] = themekey_node_nid2language
+variables[themekey_maps][11][src] = node:nid
+variables[themekey_maps][11][dst] = node:vid
+variables[themekey_maps][11][callback] = themekey_node_nid2vid
+variables[themekey_maps][12][src] = node:nid
+variables[themekey_maps][12][dst] = node:promote
+variables[themekey_maps][12][callback] = themekey_node_nid2promote
+variables[themekey_maps][13][src] = node:nid
+variables[themekey_maps][13][dst] = node:sticky
+variables[themekey_maps][13][callback] = themekey_node_nid2sticky
+variables[themekey_maps][14][src] = node:nid
+variables[themekey_maps][14][dst] = node:type
+variables[themekey_maps][14][callback] = themekey_node_nid2type
+variables[themekey_maps][15][src] = node:nid
+variables[themekey_maps][15][dst] = node:uid
+variables[themekey_maps][15][callback] = themekey_node_nid2uid
+variables[themekey_maps][16][src] = node:nid
+variables[themekey_maps][16][dst] = node:title
+variables[themekey_maps][16][callback] = themekey_node_nid2title
+variables[themekey_maps][17][src] = drupal:get_q
+variables[themekey_maps][17][dst] = node:type
+variables[themekey_maps][17][callback] = themekey_node_get_q2type
+variables[themekey_maps][18][src] = system:dummy
+variables[themekey_maps][18][dst] = system:query_param
+variables[themekey_maps][18][callback] = themekey_dummy2query_param
+variables[themekey_maps][19][src] = system:dummy
+variables[themekey_maps][19][dst] = system:cookie
+variables[themekey_maps][19][callback] = themekey_dummy2cookie
+variables[themekey_maps][20][src] = system:dummy
+variables[themekey_maps][20][dst] = system:post
+variables[themekey_maps][20][callback] = themekey_dummy2post
+variables[themekey_maps][21][src] = system:dummy
+variables[themekey_maps][21][dst] = system:query_string
+variables[themekey_maps][21][callback] = themekey_dummy2query_string
+variables[themekey_maps][22][src] = system:dummy
+variables[themekey_maps][22][dst] = system:date_time
+variables[themekey_maps][22][callback] = themekey_dummy2date_time
+variables[themekey_maps][23][src] = system:dummy
+variables[themekey_maps][23][dst] = system:date
+variables[themekey_maps][23][callback] = themekey_dummy2date
+variables[themekey_maps][24][src] = system:dummy
+variables[themekey_maps][24][dst] = system:month
+variables[themekey_maps][24][callback] = themekey_dummy2month
+variables[themekey_maps][25][src] = system:dummy
+variables[themekey_maps][25][dst] = system:time
+variables[themekey_maps][25][callback] = themekey_dummy2time
+variables[themekey_maps][26][src] = system:dummy
+variables[themekey_maps][26][dst] = system:day_of_week
+variables[themekey_maps][26][callback] = themekey_dummy2day_of_week
+variables[themekey_maps][27][src] = system:dummy
+variables[themekey_maps][27][dst] = system:day_of_month
+variables[themekey_maps][27][callback] = themekey_dummy2day_of_month
+variables[themekey_maps][28][src] = system:dummy
+variables[themekey_maps][28][dst] = system:user_browser
+variables[themekey_maps][28][callback] = themekey_dummy2user_browser
+variables[themekey_maps][29][src] = system:dummy
+variables[themekey_maps][29][dst] = system:user_os
+variables[themekey_maps][29][callback] = themekey_dummy2user_os
+variables[themekey_maps][30][src] = system:user_browser
+variables[themekey_maps][30][dst] = system:user_browser_simplified
+variables[themekey_maps][30][callback] = themekey_user_browser2user_browser_simplified
+variables[themekey_maps][31][src] = system:user_os
+variables[themekey_maps][31][dst] = system:user_os_simplified
+variables[themekey_maps][31][callback] = themekey_user_os2user_os_simplified
+variables[themekey_maps][32][src] = system:dummy
+variables[themekey_maps][32][dst] = system:session
+variables[themekey_maps][32][callback] = themekey_dummy2session
+variables[themekey_modules][0] = user
+variables[themekey_modules][1] = taxonomy
+variables[themekey_modules][2] = views
+variables[themekey_modules][3] = node
+variables[themekey_modules][4] = system
+variables[themekey_paths][0][path] = node/#/revisions/#/view
+variables[themekey_paths][0][wildcards][1] = node:nid
+variables[themekey_paths][0][wildcards][3] = node:vid
+variables[themekey_paths][0][weight] = 10
+variables[themekey_paths][0][fit] = 21
+variables[themekey_paths][1][path] = taxonomy/term/#
+variables[themekey_paths][1][wildcards][2] = taxonomy:tid
+variables[themekey_paths][1][weight] = 1
+variables[themekey_paths][1][fit] = 6
+variables[themekey_paths][2][path] = node/#
+variables[themekey_paths][2][wildcards][1] = node:nid
+variables[themekey_paths][2][weight] = 1
+variables[themekey_paths][2][fit] = 2
+variables[themekey_properties][drupal:base_path] = drupal:base_path
+variables[themekey_properties][drupal:get_q] = drupal:get_q
+variables[themekey_properties][drupal:is_front_page] = drupal:is_front_page
+variables[themekey_properties][drupal:path] = drupal:path
+variables[themekey_properties][drupal:path:wildcard] = drupal:path:wildcard
+variables[themekey_properties][node:changed] = node:changed
+variables[themekey_properties][node:changed_date] = node:changed_date
+variables[themekey_properties][node:changed_date_time] = node:changed_date_time
+variables[themekey_properties][node:created] = node:created
+variables[themekey_properties][node:created_date] = node:created_date
+variables[themekey_properties][node:created_date_time] = node:created_date_time
+variables[themekey_properties][node:language] = node:language
+variables[themekey_properties][node:nid] = node:nid
+variables[themekey_properties][node:promote] = node:promote
+variables[themekey_properties][node:sticky] = node:sticky
+variables[themekey_properties][node:title] = node:title
+variables[themekey_properties][node:type] = node:type
+variables[themekey_properties][node:uid] = node:uid
+variables[themekey_properties][node:vid] = node:vid
+variables[themekey_properties][system:cookie] = system:cookie
+variables[themekey_properties][system:date] = system:date
+variables[themekey_properties][system:date_time] = system:date_time
+variables[themekey_properties][system:day_of_month] = system:day_of_month
+variables[themekey_properties][system:day_of_week] = system:day_of_week
+variables[themekey_properties][system:dummy] = system:dummy
+variables[themekey_properties][system:host] = system:host
+variables[themekey_properties][system:https] = system:https
+variables[themekey_properties][system:month] = system:month
+variables[themekey_properties][system:post] = system:post
+variables[themekey_properties][system:query_param] = system:query_param
+variables[themekey_properties][system:query_string] = system:query_string
+variables[themekey_properties][system:random] = system:random
+variables[themekey_properties][system:referer] = system:referer
+variables[themekey_properties][system:remote_ip] = system:remote_ip
+variables[themekey_properties][system:server_ip] = system:server_ip
+variables[themekey_properties][system:server_name] = system:server_name
+variables[themekey_properties][system:server_port] = system:server_port
+variables[themekey_properties][system:session] = system:session
+variables[themekey_properties][system:time] = system:time
+variables[themekey_properties][system:user_agent] = system:user_agent
+variables[themekey_properties][system:user_browser] = system:user_browser
+variables[themekey_properties][system:user_browser_simplified] = system:user_browser_simplified
+variables[themekey_properties][system:user_os] = system:user_os
+variables[themekey_properties][system:user_os_simplified] = system:user_os_simplified
+variables[themekey_properties][taxonomy:tid] = taxonomy:tid
+variables[themekey_properties][taxonomy:tid_and_childs] = taxonomy:tid_and_childs
+variables[themekey_properties][taxonomy:vid] = taxonomy:vid
+variables[themekey_properties][user:hostname] = user:hostname
+variables[themekey_properties][user:language] = user:language
+variables[themekey_properties][user:name] = user:name
+variables[themekey_properties][user:role] = user:role
+variables[themekey_properties][user:uid] = user:uid
+variables[themekey_properties][views:vid] = views:vid
+variables[theme_analytic_settings][toggle_logo] = 0
+variables[theme_analytic_settings][toggle_name] = 1
+variables[theme_analytic_settings][toggle_slogan] = 1
+variables[theme_analytic_settings][toggle_node_user_picture] = 1
+variables[theme_analytic_settings][toggle_comment_user_picture] = 1
+variables[theme_analytic_settings][toggle_favicon] = 1
+variables[theme_analytic_settings][default_logo] = 1
+variables[theme_analytic_settings][logo_path] = 
+variables[theme_analytic_settings][logo_upload] = 
+variables[theme_analytic_settings][default_favicon] = 1
+variables[theme_analytic_settings][favicon_path] = 
+variables[theme_analytic_settings][favicon_upload] = 
+variables[theme_default] = sky
+variables[theme_liberty_notepad_settings][toggle_logo] = 1
+variables[theme_liberty_notepad_settings][toggle_name] = 1
+variables[theme_liberty_notepad_settings][toggle_slogan] = 1
+variables[theme_liberty_notepad_settings][toggle_node_user_picture] = 1
+variables[theme_liberty_notepad_settings][toggle_comment_user_picture] = 1
+variables[theme_liberty_notepad_settings][toggle_comment_user_verification] = 1
+variables[theme_liberty_notepad_settings][toggle_favicon] = 1
+variables[theme_liberty_notepad_settings][toggle_main_menu] = 1
+variables[theme_liberty_notepad_settings][toggle_secondary_menu] = 1
+variables[theme_liberty_notepad_settings][default_logo] = 0
+variables[theme_liberty_notepad_settings][logo_path] = public://logo3.gif
+variables[theme_liberty_notepad_settings][logo_upload] = 
+variables[theme_liberty_notepad_settings][default_favicon] = 1
+variables[theme_liberty_notepad_settings][favicon_path] = 
+variables[theme_liberty_notepad_settings][favicon_upload] = 
+variables[theme_liberty_notepad_settings][alpha_grid] = alpha_fluid
+variables[theme_liberty_notepad_settings][alpha_responsive] = 1
+variables[theme_liberty_notepad_settings][alpha_viewport] = 1
+variables[theme_liberty_notepad_settings][alpha_viewport_initial_scale] = 1
+variables[theme_liberty_notepad_settings][alpha_viewport_min_scale] = 1
+variables[theme_liberty_notepad_settings][alpha_viewport_max_scale] = 2
+variables[theme_liberty_notepad_settings][alpha_viewport_user_scaleable] = 0
+variables[theme_liberty_notepad_settings][alpha_primary_alpha_default] = normal
+variables[theme_liberty_notepad_settings][alpha_layouts_alpha_default_narrow_responsive] = 1
+variables[theme_liberty_notepad_settings][alpha_layouts_alpha_default_narrow_weight] = 1
+variables[theme_liberty_notepad_settings][alpha_layouts_alpha_default_narrow_media] = all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)
+variables[theme_liberty_notepad_settings][alpha_layouts_alpha_default_normal_responsive] = 1
+variables[theme_liberty_notepad_settings][alpha_layouts_alpha_default_normal_weight] = 2
+variables[theme_liberty_notepad_settings][alpha_layouts_alpha_default_normal_media] = all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)
+variables[theme_liberty_notepad_settings][alpha_layouts_alpha_default_wide_responsive] = 1
+variables[theme_liberty_notepad_settings][alpha_layouts_alpha_default_wide_weight] = 3
+variables[theme_liberty_notepad_settings][alpha_layouts_alpha_default_wide_media] = all and (min-width: 1220px)
+variables[theme_liberty_notepad_settings][alpha_layouts_alpha_default_fluid_responsive] = 0
+variables[theme_liberty_notepad_settings][alpha_layouts_alpha_default_fluid_weight] = 0
+variables[theme_liberty_notepad_settings][alpha_layouts_alpha_default_fluid_media] = all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)
+variables[theme_liberty_notepad_settings][alpha_primary_alpha_fluid] = normal
+variables[theme_liberty_notepad_settings][alpha_layouts_alpha_fluid_normal_responsive] = 0
+variables[theme_liberty_notepad_settings][alpha_layouts_alpha_fluid_normal_weight] = 0
+variables[theme_liberty_notepad_settings][alpha_layouts_alpha_fluid_normal_media] = all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)
+variables[theme_liberty_notepad_settings][alpha_libraries][omega_formalize] = omega_formalize
+variables[theme_liberty_notepad_settings][alpha_libraries][omega_mediaqueries] = omega_mediaqueries
+variables[theme_liberty_notepad_settings][alpha_libraries][omega_equalheights] = 0
+variables[theme_liberty_notepad_settings][alpha_css][alpha-reset.css] = alpha-reset.css
+variables[theme_liberty_notepad_settings][alpha_css][alpha-mobile.css] = alpha-mobile.css
+variables[theme_liberty_notepad_settings][alpha_css][alpha-alpha.css] = alpha-alpha.css
+variables[theme_liberty_notepad_settings][alpha_css][omega-text.css] = omega-text.css
+variables[theme_liberty_notepad_settings][alpha_css][omega-branding.css] = omega-branding.css
+variables[theme_liberty_notepad_settings][alpha_css][omega-menu.css] = omega-menu.css
+variables[theme_liberty_notepad_settings][alpha_css][omega-forms.css] = omega-forms.css
+variables[theme_liberty_notepad_settings][alpha_css][omega-visuals.css] = omega-visuals.css
+variables[theme_liberty_notepad_settings][alpha_css][global.css] = global.css
+variables[theme_liberty_notepad_settings][alpha_exclude][sites/all/modules/contrib/collapsiblock/collapsiblock.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/field/theme/field.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][sites/all/modules/contrib/logintoboggan/logintoboggan.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/node/node.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/search/search.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/user/user.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][sites/all/modules/contrib/views/css/views.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][misc/vertical-tabs.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/aggregator/aggregator.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/block/block.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/dblog/dblog.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/file/file.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/filter/filter.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/help/help.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/menu/menu.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/openid/openid.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/profile/profile.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/statistics/statistics.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/syslog/syslog.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/system/admin.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/system/maintenance.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/system/system.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/system/system.admin.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/system/system.base.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/system/system.maintenance.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/system/system.menus.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/system/system.messages.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/system/system.theme.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/taxonomy/taxonomy.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/tracker/tracker.css] = 0
+variables[theme_liberty_notepad_settings][alpha_exclude][modules/update/update.css] = 0
+variables[theme_liberty_notepad_settings][alpha_debug_block_toggle] = 1
+variables[theme_liberty_notepad_settings][alpha_debug_block_active] = 1
+variables[theme_liberty_notepad_settings][alpha_debug_grid_toggle] = 1
+variables[theme_liberty_notepad_settings][alpha_debug_grid_active] = 1
+variables[theme_liberty_notepad_settings][alpha_debug_grid_roles][1] = 1
+variables[theme_liberty_notepad_settings][alpha_debug_grid_roles][2] = 2
+variables[theme_liberty_notepad_settings][alpha_debug_grid_roles][3] = 3
+variables[theme_liberty_notepad_settings][alpha_debug_grid_roles][4] = 0
+variables[theme_liberty_notepad_settings][alpha_debug_grid_roles][5] = 0
+variables[theme_liberty_notepad_settings][alpha_toggle_messages] = 1
+variables[theme_liberty_notepad_settings][alpha_toggle_action_links] = 1
+variables[theme_liberty_notepad_settings][alpha_toggle_tabs] = 1
+variables[theme_liberty_notepad_settings][alpha_toggle_breadcrumb] = 1
+variables[theme_liberty_notepad_settings][alpha_toggle_page_title] = 1
+variables[theme_liberty_notepad_settings][alpha_toggle_feed_icons] = 0
+variables[theme_liberty_notepad_settings][alpha_hidden_title] = 0
+variables[theme_liberty_notepad_settings][alpha_hidden_site_name] = 0
+variables[theme_liberty_notepad_settings][alpha_hidden_site_slogan] = 0
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_main_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_main_zone] = 
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_main_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_main_columns] = 1
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_main_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_main_weight] = -50
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_main_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_main_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_main_equal_height_element] = 
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_main_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_inactive_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_inactive_zone] = 
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_inactive_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_inactive_columns] = 1
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_inactive_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_inactive_weight] = -50
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_inactive_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_inactive_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_inactive_equal_height_element] = 
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_inactive_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_sidebar_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_sidebar_zone] = 
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_sidebar_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_sidebar_columns] = 1
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_sidebar_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_sidebar_weight] = -50
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_sidebar_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_sidebar_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_sidebar_equal_height_element] = 
+variables[theme_liberty_notepad_settings][alpha_region_dashboard_sidebar_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_user_wrapper] = 1
+variables[theme_liberty_notepad_settings][alpha_zone_user_force] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_user_order] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_user_section] = header
+variables[theme_liberty_notepad_settings][alpha_zone_user_weight] = 1
+variables[theme_liberty_notepad_settings][alpha_zone_user_columns] = 12
+variables[theme_liberty_notepad_settings][alpha_zone_user_primary] = 
+variables[theme_liberty_notepad_settings][alpha_zone_user_css] = 
+variables[theme_liberty_notepad_settings][alpha_zone_user_wrapper_css] = 
+variables[theme_liberty_notepad_settings][alpha_zone_user_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_user_first_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_user_first_zone] = user
+variables[theme_liberty_notepad_settings][alpha_region_user_first_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_user_first_columns] = 8
+variables[theme_liberty_notepad_settings][alpha_region_user_first_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_user_first_weight] = 1
+variables[theme_liberty_notepad_settings][alpha_region_user_first_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_user_first_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_user_first_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_user_first_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_user_second_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_user_second_zone] = user
+variables[theme_liberty_notepad_settings][alpha_region_user_second_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_user_second_columns] = 4
+variables[theme_liberty_notepad_settings][alpha_region_user_second_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_user_second_weight] = 2
+variables[theme_liberty_notepad_settings][alpha_region_user_second_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_user_second_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_user_second_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_user_second_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_branding_wrapper] = 1
+variables[theme_liberty_notepad_settings][alpha_zone_branding_force] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_branding_order] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_branding_section] = header
+variables[theme_liberty_notepad_settings][alpha_zone_branding_weight] = 2
+variables[theme_liberty_notepad_settings][alpha_zone_branding_columns] = 12
+variables[theme_liberty_notepad_settings][alpha_zone_branding_primary] = 
+variables[theme_liberty_notepad_settings][alpha_zone_branding_css] = 
+variables[theme_liberty_notepad_settings][alpha_zone_branding_wrapper_css] = 
+variables[theme_liberty_notepad_settings][alpha_zone_branding_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_branding_force] = 1
+variables[theme_liberty_notepad_settings][alpha_region_branding_zone] = branding
+variables[theme_liberty_notepad_settings][alpha_region_branding_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_branding_columns] = 12
+variables[theme_liberty_notepad_settings][alpha_region_branding_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_branding_weight] = 1
+variables[theme_liberty_notepad_settings][alpha_region_branding_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_branding_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_branding_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_branding_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_menu_wrapper] = 1
+variables[theme_liberty_notepad_settings][alpha_zone_menu_force] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_menu_order] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_menu_section] = header
+variables[theme_liberty_notepad_settings][alpha_zone_menu_weight] = 3
+variables[theme_liberty_notepad_settings][alpha_zone_menu_columns] = 12
+variables[theme_liberty_notepad_settings][alpha_zone_menu_primary] = 
+variables[theme_liberty_notepad_settings][alpha_zone_menu_css] = 
+variables[theme_liberty_notepad_settings][alpha_zone_menu_wrapper_css] = 
+variables[theme_liberty_notepad_settings][alpha_zone_menu_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_menu_force] = 1
+variables[theme_liberty_notepad_settings][alpha_region_menu_zone] = menu
+variables[theme_liberty_notepad_settings][alpha_region_menu_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_menu_columns] = 12
+variables[theme_liberty_notepad_settings][alpha_region_menu_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_menu_weight] = 1
+variables[theme_liberty_notepad_settings][alpha_region_menu_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_menu_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_menu_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_menu_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_header_wrapper] = 1
+variables[theme_liberty_notepad_settings][alpha_zone_header_force] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_header_order] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_header_section] = header
+variables[theme_liberty_notepad_settings][alpha_zone_header_weight] = 4
+variables[theme_liberty_notepad_settings][alpha_zone_header_columns] = 12
+variables[theme_liberty_notepad_settings][alpha_zone_header_primary] = 
+variables[theme_liberty_notepad_settings][alpha_zone_header_css] = 
+variables[theme_liberty_notepad_settings][alpha_zone_header_wrapper_css] = 
+variables[theme_liberty_notepad_settings][alpha_zone_header_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_header_first_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_header_first_zone] = header
+variables[theme_liberty_notepad_settings][alpha_region_header_first_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_header_first_columns] = 6
+variables[theme_liberty_notepad_settings][alpha_region_header_first_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_header_first_weight] = 1
+variables[theme_liberty_notepad_settings][alpha_region_header_first_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_header_first_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_header_first_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_header_first_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_header_second_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_header_second_zone] = header
+variables[theme_liberty_notepad_settings][alpha_region_header_second_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_header_second_columns] = 6
+variables[theme_liberty_notepad_settings][alpha_region_header_second_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_header_second_weight] = 2
+variables[theme_liberty_notepad_settings][alpha_region_header_second_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_header_second_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_header_second_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_header_second_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_preface_wrapper] = 1
+variables[theme_liberty_notepad_settings][alpha_zone_preface_force] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_preface_order] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_preface_section] = content
+variables[theme_liberty_notepad_settings][alpha_zone_preface_weight] = 1
+variables[theme_liberty_notepad_settings][alpha_zone_preface_columns] = 12
+variables[theme_liberty_notepad_settings][alpha_zone_preface_primary] = 
+variables[theme_liberty_notepad_settings][alpha_zone_preface_css] = 
+variables[theme_liberty_notepad_settings][alpha_zone_preface_wrapper_css] = 
+variables[theme_liberty_notepad_settings][alpha_zone_preface_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_first_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_first_zone] = preface
+variables[theme_liberty_notepad_settings][alpha_region_preface_first_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_first_columns] = 4
+variables[theme_liberty_notepad_settings][alpha_region_preface_first_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_first_weight] = 1
+variables[theme_liberty_notepad_settings][alpha_region_preface_first_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_first_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_preface_first_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_first_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_second_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_second_zone] = preface
+variables[theme_liberty_notepad_settings][alpha_region_preface_second_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_second_columns] = 4
+variables[theme_liberty_notepad_settings][alpha_region_preface_second_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_second_weight] = 2
+variables[theme_liberty_notepad_settings][alpha_region_preface_second_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_second_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_preface_second_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_second_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_third_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_third_zone] = preface
+variables[theme_liberty_notepad_settings][alpha_region_preface_third_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_third_columns] = 4
+variables[theme_liberty_notepad_settings][alpha_region_preface_third_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_third_weight] = 3
+variables[theme_liberty_notepad_settings][alpha_region_preface_third_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_third_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_preface_third_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_preface_third_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_content_wrapper] = 1
+variables[theme_liberty_notepad_settings][alpha_zone_content_force] = 1
+variables[theme_liberty_notepad_settings][alpha_zone_content_order] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_content_section] = content
+variables[theme_liberty_notepad_settings][alpha_zone_content_weight] = 2
+variables[theme_liberty_notepad_settings][alpha_zone_content_columns] = 12
+variables[theme_liberty_notepad_settings][alpha_zone_content_primary] = content
+variables[theme_liberty_notepad_settings][alpha_zone_content_css] = 
+variables[theme_liberty_notepad_settings][alpha_zone_content_wrapper_css] = 
+variables[theme_liberty_notepad_settings][alpha_zone_content_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_first_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_first_zone] = content
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_first_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_first_columns] = 3
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_first_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_first_weight] = 1
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_first_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_first_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_first_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_first_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_content_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_content_zone] = content
+variables[theme_liberty_notepad_settings][alpha_region_content_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_content_columns] = 6
+variables[theme_liberty_notepad_settings][alpha_region_content_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_content_weight] = 2
+variables[theme_liberty_notepad_settings][alpha_region_content_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_content_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_content_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_content_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_second_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_second_zone] = content
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_second_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_second_columns] = 3
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_second_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_second_weight] = 3
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_second_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_second_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_second_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_sidebar_second_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_postscript_wrapper] = 1
+variables[theme_liberty_notepad_settings][alpha_zone_postscript_force] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_postscript_order] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_postscript_section] = content
+variables[theme_liberty_notepad_settings][alpha_zone_postscript_weight] = 3
+variables[theme_liberty_notepad_settings][alpha_zone_postscript_columns] = 12
+variables[theme_liberty_notepad_settings][alpha_zone_postscript_primary] = 
+variables[theme_liberty_notepad_settings][alpha_zone_postscript_css] = 
+variables[theme_liberty_notepad_settings][alpha_zone_postscript_wrapper_css] = 
+variables[theme_liberty_notepad_settings][alpha_zone_postscript_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_first_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_first_zone] = postscript
+variables[theme_liberty_notepad_settings][alpha_region_postscript_first_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_first_columns] = 3
+variables[theme_liberty_notepad_settings][alpha_region_postscript_first_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_first_weight] = 1
+variables[theme_liberty_notepad_settings][alpha_region_postscript_first_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_first_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_postscript_first_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_first_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_second_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_second_zone] = postscript
+variables[theme_liberty_notepad_settings][alpha_region_postscript_second_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_second_columns] = 3
+variables[theme_liberty_notepad_settings][alpha_region_postscript_second_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_second_weight] = 2
+variables[theme_liberty_notepad_settings][alpha_region_postscript_second_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_second_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_postscript_second_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_second_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_third_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_third_zone] = postscript
+variables[theme_liberty_notepad_settings][alpha_region_postscript_third_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_third_columns] = 3
+variables[theme_liberty_notepad_settings][alpha_region_postscript_third_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_third_weight] = 3
+variables[theme_liberty_notepad_settings][alpha_region_postscript_third_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_third_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_postscript_third_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_third_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_fourth_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_fourth_zone] = postscript
+variables[theme_liberty_notepad_settings][alpha_region_postscript_fourth_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_fourth_columns] = 3
+variables[theme_liberty_notepad_settings][alpha_region_postscript_fourth_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_fourth_weight] = 4
+variables[theme_liberty_notepad_settings][alpha_region_postscript_fourth_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_fourth_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_postscript_fourth_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_postscript_fourth_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_footer_wrapper] = 1
+variables[theme_liberty_notepad_settings][alpha_zone_footer_force] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_footer_order] = 0
+variables[theme_liberty_notepad_settings][alpha_zone_footer_section] = footer
+variables[theme_liberty_notepad_settings][alpha_zone_footer_weight] = 1
+variables[theme_liberty_notepad_settings][alpha_zone_footer_columns] = 12
+variables[theme_liberty_notepad_settings][alpha_zone_footer_primary] = 
+variables[theme_liberty_notepad_settings][alpha_zone_footer_css] = 
+variables[theme_liberty_notepad_settings][alpha_zone_footer_wrapper_css] = 
+variables[theme_liberty_notepad_settings][alpha_zone_footer_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_footer_first_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_footer_first_zone] = footer
+variables[theme_liberty_notepad_settings][alpha_region_footer_first_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_footer_first_columns] = 12
+variables[theme_liberty_notepad_settings][alpha_region_footer_first_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_footer_first_weight] = 1
+variables[theme_liberty_notepad_settings][alpha_region_footer_first_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_footer_first_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_footer_first_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_footer_first_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][alpha_region_footer_second_force] = 0
+variables[theme_liberty_notepad_settings][alpha_region_footer_second_zone] = footer
+variables[theme_liberty_notepad_settings][alpha_region_footer_second_prefix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_footer_second_columns] = 12
+variables[theme_liberty_notepad_settings][alpha_region_footer_second_suffix] = 0
+variables[theme_liberty_notepad_settings][alpha_region_footer_second_weight] = 2
+variables[theme_liberty_notepad_settings][alpha_region_footer_second_position] = 0
+variables[theme_liberty_notepad_settings][alpha_region_footer_second_css] = 
+variables[theme_liberty_notepad_settings][alpha_region_footer_second_equal_height_element] = 0
+variables[theme_liberty_notepad_settings][alpha_region_footer_second_equal_height_container] = 0
+variables[theme_liberty_notepad_settings][collapsiblock_block] = div.block
+variables[theme_liberty_notepad_settings][collapsiblock_title] = :header:first
+variables[theme_liberty_notepad_settings][collapsiblock_content] = div.content
+variables[theme_mix_and_match_settings][toggle_logo] = 0
+variables[theme_mix_and_match_settings][toggle_name] = 1
+variables[theme_mix_and_match_settings][toggle_slogan] = 1
+variables[theme_mix_and_match_settings][toggle_node_user_picture] = 1
+variables[theme_mix_and_match_settings][toggle_comment_user_picture] = 1
+variables[theme_mix_and_match_settings][toggle_favicon] = 1
+variables[theme_mix_and_match_settings][default_logo] = 1
+variables[theme_mix_and_match_settings][logo_path] = 
+variables[theme_mix_and_match_settings][logo_upload] = 
+variables[theme_mix_and_match_settings][default_favicon] = 1
+variables[theme_mix_and_match_settings][favicon_path] = 
+variables[theme_mix_and_match_settings][favicon_upload] = 
+variables[theme_mix_and_match_settings][theme_grid] = grid16-960
+variables[theme_mix_and_match_settings][fluid_grid_width] = fluid-100
+variables[theme_mix_and_match_settings][sidebar_layout] = sidebars-split
+variables[theme_mix_and_match_settings][sidebar_first_width] = 3
+variables[theme_mix_and_match_settings][sidebar_second_width] = 4
+variables[theme_mix_and_match_settings][theme_font] = none
+variables[theme_mix_and_match_settings][theme_font_size] = font-size-13
+variables[theme_mix_and_match_settings][breadcrumb_display] = 1
+variables[theme_mix_and_match_settings][search_snippet] = 1
+variables[theme_mix_and_match_settings][search_info_type] = 1
+variables[theme_mix_and_match_settings][search_info_user] = 1
+variables[theme_mix_and_match_settings][search_info_date] = 1
+variables[theme_mix_and_match_settings][search_info_comment] = 1
+variables[theme_mix_and_match_settings][search_info_upload] = 1
+variables[theme_mix_and_match_settings][grid_mask] = 0
+variables[theme_mix_and_match_settings][mix_and_match_body_bg] = white
+variables[theme_mix_and_match_settings][mix_and_match_page_bg] = no-page-bg
+variables[theme_mix_and_match_settings][mix_and_match_accent_color] = gray-accents
+variables[theme_mix_and_match_settings][mix_and_match_footer_color] = default-footer
+variables[theme_mix_and_match_settings][mix_and_match_header_color] = default-headers
+variables[theme_mix_and_match_settings][mix_and_match_link_color] = default-links
+variables[theme_mix_and_match_settings][mix_and_match_corners] = round-corners-7
+variables[theme_pixture_reloaded_settings][toggle_logo] = 1
+variables[theme_pixture_reloaded_settings][toggle_name] = 1
+variables[theme_pixture_reloaded_settings][toggle_slogan] = 1
+variables[theme_pixture_reloaded_settings][toggle_node_user_picture] = 1
+variables[theme_pixture_reloaded_settings][toggle_comment_user_picture] = 1
+variables[theme_pixture_reloaded_settings][toggle_comment_user_verification] = 1
+variables[theme_pixture_reloaded_settings][toggle_favicon] = 1
+variables[theme_pixture_reloaded_settings][default_logo] = 0
+variables[theme_pixture_reloaded_settings][logo_path] = public://logo_coolpad_sm.gif
+variables[theme_pixture_reloaded_settings][default_favicon] = 0
+variables[theme_pixture_reloaded_settings][favicon_path] = public://logo_coolpad_xsm.gif
+variables[theme_pixture_reloaded_settings][font_family] = ff-sss
+variables[theme_pixture_reloaded_settings][headings_font_family] = hff-sss
+variables[theme_pixture_reloaded_settings][font_size] = fs-12
+variables[theme_pixture_reloaded_settings][headings_styles_caps] = 0
+variables[theme_pixture_reloaded_settings][headings_styles_weight] = 0
+variables[theme_pixture_reloaded_settings][headings_styles_shadow] = 0
+variables[theme_pixture_reloaded_settings][corner_radius] = rc-8
+variables[theme_pixture_reloaded_settings][box_shadows] = bs-l
+variables[theme_pixture_reloaded_settings][collapsiblock_block] = div.block
+variables[theme_pixture_reloaded_settings][collapsiblock_title] = :header:first
+variables[theme_pixture_reloaded_settings][collapsiblock_content] = div.content
+variables[theme_pixture_reloaded_settings][scheme] = deepblue
+variables[theme_pixture_reloaded_settings][palette][base] = #1c44a9
+variables[theme_pixture_reloaded_settings][palette][page] = #feffff
+variables[theme_pixture_reloaded_settings][palette][link] = #4b5cc3
+variables[theme_pixture_reloaded_settings][palette][top] = #062984
+variables[theme_pixture_reloaded_settings][palette][bottom] = #5283ff
+variables[theme_pixture_reloaded_settings][palette][text] = #555555
+variables[theme_pixture_reloaded_settings][palette][blockh] = #284ead
+variables[theme_pixture_reloaded_settings][palette][blockbg] = #bbc7e5
+variables[theme_pixture_reloaded_settings][palette][borders] = #bbc7e5
+variables[theme_pixture_reloaded_settings][palette][sticky] = #bbc7e5
+variables[theme_pixture_reloaded_settings][theme] = pixture_reloaded
+variables[theme_pixture_reloaded_settings][info][fields][base] = Base
+variables[theme_pixture_reloaded_settings][info][fields][page] = Page background
+variables[theme_pixture_reloaded_settings][info][fields][link] = Links
+variables[theme_pixture_reloaded_settings][info][fields][top] = Header top
+variables[theme_pixture_reloaded_settings][info][fields][bottom] = Header bottom
+variables[theme_pixture_reloaded_settings][info][fields][text] = Text
+variables[theme_pixture_reloaded_settings][info][fields][blockh] = Block header
+variables[theme_pixture_reloaded_settings][info][fields][blockbg] = Block body
+variables[theme_pixture_reloaded_settings][info][fields][borders] = Borders
+variables[theme_pixture_reloaded_settings][info][fields][sticky] = Sticky teaser
+variables[theme_pixture_reloaded_settings][info][schemes][default][title] = Girly Pink (default)
+variables[theme_pixture_reloaded_settings][info][schemes][default][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][redcarpet][title] = Red Carpet
+variables[theme_pixture_reloaded_settings][info][schemes][redcarpet][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][orangesunset][title] = Orange Sunset
+variables[theme_pixture_reloaded_settings][info][schemes][orangesunset][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][goldyellow][title] = Gold Yellow
+variables[theme_pixture_reloaded_settings][info][schemes][goldyellow][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][sandstone][title] = Sandstone
+variables[theme_pixture_reloaded_settings][info][schemes][sandstone][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][caramelbrown][title] = Caramel Brown
+variables[theme_pixture_reloaded_settings][info][schemes][caramelbrown][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][earthbrown][title] = Earth Brown
+variables[theme_pixture_reloaded_settings][info][schemes][earthbrown][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][olivegarden][title] = Olive Garden
+variables[theme_pixture_reloaded_settings][info][schemes][olivegarden][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][forestgreen][title] = Forest Green
+variables[theme_pixture_reloaded_settings][info][schemes][forestgreen][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][teal][title] = Teal
+variables[theme_pixture_reloaded_settings][info][schemes][teal][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][aquamarine][title] = Aquamarine
+variables[theme_pixture_reloaded_settings][info][schemes][aquamarine][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][oceanwater][title] = Ocean Water
+variables[theme_pixture_reloaded_settings][info][schemes][oceanwater][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][deepblue][title] = Deep Blue
+variables[theme_pixture_reloaded_settings][info][schemes][deepblue][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][graphite][title] = Graphite
+variables[theme_pixture_reloaded_settings][info][schemes][graphite][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][violet][title] = Violet
+variables[theme_pixture_reloaded_settings][info][schemes][violet][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][purplehaze][title] = Purple Haze
+variables[theme_pixture_reloaded_settings][info][schemes][purplehaze][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][silver][title] = Silver
+variables[theme_pixture_reloaded_settings][info][schemes][silver][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][ash][title] = Ash
+variables[theme_pixture_reloaded_settings][info][schemes][ash][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][gothic][title] = Gothic
+variables[theme_pixture_reloaded_settings][info][schemes][gothic][colors] = Array
+variables[theme_pixture_reloaded_settings][info][schemes][][title] = Custom
+variables[theme_pixture_reloaded_settings][info][schemes][][colors] = Array
+variables[theme_pixture_reloaded_settings][info][css][0] = colors.css
+variables[theme_pixture_reloaded_settings][info][copy][0] = images/bullet-round.png
+variables[theme_pixture_reloaded_settings][info][copy][1] = images/bullet-sm-arrow-right.png
+variables[theme_pixture_reloaded_settings][info][copy][2] = images/bullet-sm-arrow-down.png
+variables[theme_pixture_reloaded_settings][info][copy][3] = images/button.gif
+variables[theme_pixture_reloaded_settings][info][copy][4] = images/button-o.gif
+variables[theme_pixture_reloaded_settings][info][gradients][0][dimension] = Array
+variables[theme_pixture_reloaded_settings][info][gradients][0][direction] = vertical
+variables[theme_pixture_reloaded_settings][info][gradients][0][colors] = Array
+variables[theme_pixture_reloaded_settings][info][fill][base][0] = 0
+variables[theme_pixture_reloaded_settings][info][fill][base][1] = 0
+variables[theme_pixture_reloaded_settings][info][fill][base][2] = 800
+variables[theme_pixture_reloaded_settings][info][fill][base][3] = 570
+variables[theme_pixture_reloaded_settings][info][fill][link][0] = 240
+variables[theme_pixture_reloaded_settings][info][fill][link][1] = 530
+variables[theme_pixture_reloaded_settings][info][fill][link][2] = 40
+variables[theme_pixture_reloaded_settings][info][fill][link][3] = 40
+variables[theme_pixture_reloaded_settings][info][slices][images/header.png][0] = 2
+variables[theme_pixture_reloaded_settings][info][slices][images/header.png][1] = 0
+variables[theme_pixture_reloaded_settings][info][slices][images/header.png][2] = 512
+variables[theme_pixture_reloaded_settings][info][slices][images/header.png][3] = 88
+variables[theme_pixture_reloaded_settings][info][slices][images/header-tile.png][0] = 792
+variables[theme_pixture_reloaded_settings][info][slices][images/header-tile.png][1] = 0
+variables[theme_pixture_reloaded_settings][info][slices][images/header-tile.png][2] = 8
+variables[theme_pixture_reloaded_settings][info][slices][images/header-tile.png][3] = 88
+variables[theme_pixture_reloaded_settings][info][slices][images/menu-tile.png][0] = 792
+variables[theme_pixture_reloaded_settings][info][slices][images/menu-tile.png][1] = 0
+variables[theme_pixture_reloaded_settings][info][slices][images/menu-tile.png][2] = 8
+variables[theme_pixture_reloaded_settings][info][slices][images/menu-tile.png][3] = 32
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-footer.png][0] = 792
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-footer.png][1] = 0
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-footer.png][2] = 8
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-footer.png][3] = 88
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-footer-tile.png][0] = 792
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-footer-tile.png][1] = 87
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-footer-tile.png][2] = 1
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-footer-tile.png][3] = 1
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-menu.png][0] = 0
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-menu.png][1] = 88
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-menu.png][2] = 8
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-menu.png][3] = 32
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-title.png][0] = 20
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-title.png][1] = 130
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-title.png][2] = 10
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-title.png][3] = 10
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-wall.png][0] = 792
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-wall.png][1] = 120
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-wall.png][2] = 8
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-wall.png][3] = 408
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-bar-lite.png][0] = 0
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-bar-lite.png][1] = 530
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-bar-lite.png][2] = 8
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-bar-lite.png][3] = 40
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-bar.png][0] = 20
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-bar.png][1] = 530
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-bar.png][2] = 8
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-bar.png][3] = 40
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-lbar-lite.png][0] = 270
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-lbar-lite.png][1] = 530
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-lbar-lite.png][2] = 8
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-lbar-lite.png][3] = 40
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-lbar.png][0] = 250
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-lbar.png][1] = 530
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-lbar.png][2] = 8
+variables[theme_pixture_reloaded_settings][info][slices][images/bg-lbar.png][3] = 40
+variables[theme_pixture_reloaded_settings][info][slices][images/sf-hover-tile.png][0] = 0
+variables[theme_pixture_reloaded_settings][info][slices][images/sf-hover-tile.png][1] = 30
+variables[theme_pixture_reloaded_settings][info][slices][images/sf-hover-tile.png][2] = 250
+variables[theme_pixture_reloaded_settings][info][slices][images/sf-hover-tile.png][3] = 1
+variables[theme_pixture_reloaded_settings][info][blend_target] = #ffffff
+variables[theme_pixture_reloaded_settings][info][preview_image] = color/color-preview.png
+variables[theme_pixture_reloaded_settings][info][preview_css] = color/preview.css
+variables[theme_pixture_reloaded_settings][info][base_image] = color/base.png
+variables[theme_pixture_reloaded_settings][favicon_mimetype] = image/gif
+variables[theme_sky_settings][toggle_logo] = 1
+variables[theme_sky_settings][toggle_name] = 1
+variables[theme_sky_settings][toggle_slogan] = 1
+variables[theme_sky_settings][toggle_node_user_picture] = 1
+variables[theme_sky_settings][toggle_comment_user_picture] = 0
+variables[theme_sky_settings][toggle_comment_user_verification] = 0
+variables[theme_sky_settings][toggle_favicon] = 1
+variables[theme_sky_settings][default_logo] = 0
+variables[theme_sky_settings][logo_path] = public://liberty_header_light2_0.png
+variables[theme_sky_settings][logo_upload] = 
+variables[theme_sky_settings][default_favicon] = 1
+variables[theme_sky_settings][favicon_path] = 
+variables[theme_sky_settings][favicon_upload] = 
+variables[theme_sky_settings][collapsiblock_block] = div.block
+variables[theme_sky_settings][collapsiblock_title] = :header:first
+variables[theme_sky_settings][collapsiblock_content] = div.content
+variables[theme_sky_settings][scheme] = 
+variables[theme_sky_settings][palette][text] = #000000
+variables[theme_sky_settings][palette][site_name] = #4c4742
+variables[theme_sky_settings][palette][site_slogan] = #837b72
+variables[theme_sky_settings][palette][title_page] = #100001
+variables[theme_sky_settings][palette][title_block] = #5e5247
+variables[theme_sky_settings][palette][title_linked] = #100011
+variables[theme_sky_settings][palette][link] = #1c6ea0
+variables[theme_sky_settings][palette][link_hover] = #42a9be
+variables[theme_sky_settings][palette][footer_links] = #126598
+variables[theme_sky_settings][palette][footer_links_hover] = #127ba5
+variables[theme_sky_settings][palette][header_links] = #0679be
+variables[theme_sky_settings][palette][header_links_hover] = #42a9ba
+variables[theme_sky_settings][palette][page_background] = #fafafa
+variables[theme_sky_settings][palette][tab_background] = #fffffe
+variables[theme_sky_settings][palette][tab_foreground] = #101010
+variables[theme_sky_settings][palette][tab_background_active] = #efedeb
+variables[theme_sky_settings][palette][tab_foreground_active] = #111111
+variables[theme_sky_settings][palette][navigation_background] = #e1dfdc
+variables[theme_sky_settings][palette][navigation_foreground] = #4d453e
+variables[theme_sky_settings][palette][node_links_background] = #e7e5e3
+variables[theme_sky_settings][palette][node_links_foreground] = #100100
+variables[theme_sky_settings][palette][node_links_background_hover] = #d7d5d3
+variables[theme_sky_settings][palette][node_links_foreground_hover] = #100101
+variables[theme_sky_settings][palette][footer_background] = #e3e1df
+variables[theme_sky_settings][palette][footer_foreground] = #010101
+variables[theme_sky_settings][palette][header_foreground] = #101000
+variables[theme_sky_settings][theme] = sky
+variables[theme_sky_settings][info][fields][page_background] = Background
+variables[theme_sky_settings][info][fields][text] = Foreground
+variables[theme_sky_settings][info][fields][site_name] = Site name
+variables[theme_sky_settings][info][fields][site_slogan] = Site slogan
+variables[theme_sky_settings][info][fields][navigation_background] = Background
+variables[theme_sky_settings][info][fields][navigation_foreground] = Foreground
+variables[theme_sky_settings][info][fields][title_page] = Page title
+variables[theme_sky_settings][info][fields][title_block] = Block title
+variables[theme_sky_settings][info][fields][title_linked] = Linked titles
+variables[theme_sky_settings][info][fields][link] = Links
+variables[theme_sky_settings][info][fields][link_hover] = Links hover
+variables[theme_sky_settings][info][fields][tab_background] = Background
+variables[theme_sky_settings][info][fields][tab_foreground] = Foreground
+variables[theme_sky_settings][info][fields][tab_background_active] = Background hover
+variables[theme_sky_settings][info][fields][tab_foreground_active] = Foreground hover
+variables[theme_sky_settings][info][fields][node_links_background] = Background
+variables[theme_sky_settings][info][fields][node_links_foreground] = Foreground
+variables[theme_sky_settings][info][fields][node_links_background_hover] = Background hover
+variables[theme_sky_settings][info][fields][node_links_foreground_hover] = Foreground hover
+variables[theme_sky_settings][info][fields][footer_background] = Background
+variables[theme_sky_settings][info][fields][footer_foreground] = Foreground
+variables[theme_sky_settings][info][fields][footer_links] = Links
+variables[theme_sky_settings][info][fields][footer_links_hover] = Links hover
+variables[theme_sky_settings][info][fields][header_foreground] = Foreground
+variables[theme_sky_settings][info][fields][header_links] = Links
+variables[theme_sky_settings][info][fields][header_links_hover] = Links hover
+variables[theme_sky_settings][info][schemes][default][title] = Vanilla Sky (default)
+variables[theme_sky_settings][info][schemes][default][colors] = Array
+variables[theme_sky_settings][info][schemes][blue][title] = Blue Sky
+variables[theme_sky_settings][info][schemes][blue][colors] = Array
+variables[theme_sky_settings][info][schemes][purple][title] = Purple
+variables[theme_sky_settings][info][schemes][purple][colors] = Array
+variables[theme_sky_settings][info][schemes][red][title] = Red
+variables[theme_sky_settings][info][schemes][red][colors] = Array
+variables[theme_sky_settings][info][schemes][][title] = Custom
+variables[theme_sky_settings][info][schemes][][colors] = Array
+variables[theme_sky_settings][info][css][0] = css/colors.css
+variables[theme_sky_settings][info][base_image] = color/base.png
+variables[theme_sky_settings][info][blend_target] = #ffffff
+variables[theme_sky_settings][info][copy][0] = logo.png
+variables[theme_sky_settings][info][preview_html] = color/preview.html
+variables[theme_tarski_settings][toggle_name] = 1
+variables[theme_tarski_settings][toggle_slogan] = 1
+variables[theme_tarski_settings][toggle_node_user_picture] = 1
+variables[theme_tarski_settings][toggle_comment_user_picture] = 1
+variables[theme_tarski_settings][toggle_favicon] = 1
+variables[theme_tarski_settings][default_favicon] = 1
+variables[theme_tarski_settings][favicon_path] = 
+variables[theme_tarski_settings][favicon_upload] = 
+variables[theme_tarski_settings][base_font_size] = 16px
+variables[theme_tarski_settings][header_image] = coffeerings
+variables[theme_tarski_settings][sidebar_first_weight] = 1
+variables[theme_tarski_settings][sidebar_second_weight] = 2
+variables[theme_tarski_settings][layout_1_min_width] = 980px
+variables[theme_tarski_settings][layout_1_max_width] = 980px
+variables[theme_tarski_settings][layout_2_min_width] = 980px
+variables[theme_tarski_settings][layout_2_max_width] = 980px
+variables[theme_tarski_settings][layout_3_min_width] = 800px
+variables[theme_tarski_settings][layout_3_max_width] = 980px
+variables[theme_tarski_settings][trim_pager] = 5
+variables[theme_tarski_settings][copyright_information] = Copyright © 2011 Free-data-recovery.info | <a href="/contact">Contact</a>
+variables[theme_tarski_settings][collapsiblock_block] = div.block
+variables[theme_tarski_settings][collapsiblock_title] = :header:first
+variables[theme_tarski_settings][collapsiblock_content] = div.content
+variables[tracking__active_tab] = edit-domain-tracking
+variables[update_check_frequency] = 1
+variables[update_last_check] = 1329430827
+variables[update_notification_threshold] = security
+variables[update_notify_emails][0] = chadananda@gmail.com
+variables[user_admin_role] = 3
+variables[user_cancel_method] = user_cancel_block
+variables[user_mail_cancel_confirm_body] = [user:name],
+
+A request to cancel your account has been made at [site:name].
+
+You may now cancel your account on [site:url-brief] by clicking this link or copying and pasting it into your browser:
+
+[user:cancel-url]
+
+NOTE: The cancellation of your account is not reversible.
+
+This link expires in one day and nothing will happen if it is not used.
+
+--  [site:name] team
+variables[user_mail_cancel_confirm_subject] = Account cancellation request for [user:name] at [site:name]
+variables[user_mail_password_reset_body] = [user:name],
+
+A request to reset the password for your account has been made at [site:name].
+
+You may now log in by clicking this link or copying and pasting it to your browser:
+
+[user:one-time-login-url]
+
+This link can only be used once to log in and will lead you to a page where you can set your password. It expires after one day and nothing will happen if it's not used.
+
+--  [site:name] team
+variables[user_mail_password_reset_subject] = Replacement login information for [user:name] at [site:name]
+variables[user_mail_register_admin_created_body] = [user:name],
+
+A site administrator at [site:name] has created an account for you. You may now log in by clicking this link or copying and pasting it to your browser:
+
+[user:one-time-login-url]
+
+This link can only be used once to log in and will lead you to a page where you can set your password.
+
+After setting your password, you will be able to log in at [site:login-url] in the future using:
+
+username: [user:name]
+password: Your password
+
+--  [site:name] team
+variables[user_mail_register_admin_created_subject] = An administrator created an account for you at [site:name]
+variables[user_mail_register_no_approval_required_body] = [user:name],
+
+Thank you for registering at [site:name]. You may now log in by clicking this link or copying and pasting it to your browser:
+
+[user:one-time-login-url]
+
+This link can only be used once to log in and will lead you to a page where you can set your password.
+
+After setting your password, you will be able to log in at [site:login-url] in the future using:
+
+username: [user:name]
+password: Your password
+
+--  [site:name] team
+variables[user_mail_register_no_approval_required_subject] = Account details for [user:name] at [site:name]
+variables[user_mail_register_pending_approval_body] = [user:name],
+
+Thank you for registering at [site:name]. Your application for an account is currently pending approval. Once it has been approved, you will receive another e-mail containing information about how to log in, set your password, and other details.
+
+
+--  [site:name] team
+variables[user_mail_register_pending_approval_subject] = Account details for [user:name] at [site:name] (pending admin approval)
+variables[user_mail_status_activated_body] = [user:name],
+
+Your account at [site:name] has been activated.
+
+You may now log in by clicking this link or copying and pasting it into your browser:
+
+[user:one-time-login-url]
+
+This link can only be used once to log in and will lead you to a page where you can set your password.
+
+After setting your password, you will be able to log in at [site:login-url] in the future using:
+
+username: [user:name]
+password: Your password
+
+--  [site:name] team
+variables[user_mail_status_activated_notify] = 1
+variables[user_mail_status_activated_subject] = Account details for [user:name] at [site:name] (approved)
+variables[user_mail_status_blocked_body] = [user:name],
+
+Your account on [site:name] has been blocked.
+
+--  [site:name] team
+variables[user_mail_status_blocked_subject] = Account details for [user:name] at [site:name] (blocked)
+variables[user_mail_status_canceled_body] = [user:name],
+
+Your account on [site:name] has been canceled.
+
+--  [site:name] team
+variables[user_mail_status_canceled_subject] = Account details for [user:name] at [site:name] (canceled)
+variables[user_pictures] = 1
+variables[user_picture_dimensions] = 1024x1024
+variables[user_picture_file_size] = 800
+variables[user_picture_path] = pictures
+variables[user_picture_style] = thumbnail
+variables[user_picture_style_comments] = icon
+variables[user_picture_style_nodes] = thumbnail
+variables[user_picture_style_profiles] = medium
+variables[user_register] = 0
+variables[var_article] = article
+variables[views_defaults][backlinks] = 1
+variables[views_defaults][frontpage] = 
+variables[views_defaults][admin_content] = 
+variables[views_defaults][admin_content_comment] = 1
+variables[views_defaults][admin_content_node] = 
+variables[views_defaults][feeds_log] = 1
+variables[views_exposed_filter_any_label] = new_any
+variables[views_show_additional_queries] = 1
+variables[views_ui_always_live_preview] = 1
+variables[views_ui_show_advanced_column] = 1
+variables[views_ui_show_advanced_help_warning] = 1
+variables[views_ui_show_performance_statistics] = 1
+variables[views_ui_show_preview_information] = 1
+variables[views_ui_show_sql_query] = 1
+variables[views_ui_show_sql_query_where] = above
+variables[visualize_backtrace_contrib_module_filepath] = sites/all/modules/custom
+variables[visualize_backtrace_create_main_subsections] = 1
+variables[visualize_backtrace_execution_threshold] = 5
+variables[visualize_backtrace_hide_repeating_functions] = 1
+variables[visualize_backtrace_source_code_font_size] = 12
+variables[visualize_backtrace_source_code_link_location] = local
+variables[visualize_backtrace_zgrviewer_location] = /usr/local/bin/zgrviewer
+variables[wipe_rebuild] = Rebuild system links
+variables[xmlsitemap_generated_last] = 1320538557
+variables[xmlsitemap_settings_node_affiliate_product][status] = 1
+variables[xmlsitemap_settings_node_affiliate_product][priority] = 1.0
+variables[xmlsitemap_settings_node_article][status] = 1
+variables[xmlsitemap_settings_node_article][priority] = 0.5
+variables[xmlsitemap_settings_node_page][status] = 1
+variables[xmlsitemap_settings_node_page][priority] = 1.0
+
+
