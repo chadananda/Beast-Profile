@@ -144,8 +144,8 @@ projects[liberty_notepad][type] = theme
   
 ; Libraries
 ; ---------
-libraries[] = profiler
-
+libraries[profiler][download][type] = get
+libraries[profiler][download][url] = "http://ftp.drupal.org/files/projects/profiler-7.x-2.0-beta1.tar.gz"
 
 libraries[jquery][download][type] = file
 libraries[jquery][download][url] = "https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"
